@@ -1,0 +1,2635 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Jonathan/Desktop/2242041383/Practica_4
+Ealu
+Z0 w1745909567
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3690
+Z3 dC:/Users/Jonathan/Desktop/Arquitectura_Proyecto
+Z4 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU.vhd
+Z5 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU.vhd
+l0
+L4 1
+V5W;B[T[cV8f:IdlXM8nTk3
+!s100 8c4@8RbmogWkK]PKBZhRZ0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1745909833
+!i10b 1
+Z8 !s108 1745909833.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU.vhd|
+Z10 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aalu
+R1
+R2
+DEx4 work 3 alu 0 22 5W;B[T[cV8f:IdlXM8nTk3
+!i122 3690
+l54
+L13 54
+VHW0Dd>h514;QlFkGSC@NK3
+!s100 A`VTGd=A1nV4A]9VH>81U2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu_ua
+Z13 w1744871345
+R1
+R2
+!i122 3678
+R3
+Z14 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA.vhd
+Z15 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA.vhd
+l0
+L4 1
+VcRG6OCePYl?J=fcIM]5<D0
+!s100 F;_XQWhB]g`?VWXYA]C[=3
+R6
+32
+Z16 !s110 1745909829
+!i10b 1
+Z17 !s108 1745909829.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA.vhd|
+Z19 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA.vhd|
+!i113 1
+R11
+R12
+Aalu_ua
+R1
+R2
+DEx4 work 6 alu_ua 0 22 cRG6OCePYl?J=fcIM]5<D0
+!i122 3678
+l14
+L12 7
+VQbh7FJlfF4WlSJh[WloQL0
+!s100 :C141>l5M<QLKVz<Sj5NE2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Ealu_ua_8bits
+Z20 w1744868753
+R1
+R2
+!i122 3679
+R3
+Z21 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_8bits.vhd
+Z22 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_8bits.vhd
+l0
+L4 1
+VJh:ML8;_Ua2;6zn]BfSPg0
+!s100 QVA<N]WfDUK8;>PQH8B5M3
+R6
+32
+R16
+!i10b 1
+R17
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_8bits.vhd|
+Z24 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_8bits.vhd|
+!i113 1
+R11
+R12
+Aalu_ua_8bits
+R1
+R2
+DEx4 work 12 alu_ua_8bits 0 22 Jh:ML8;_Ua2;6zn]BfSPg0
+!i122 3679
+l22
+L12 20
+V^0RSB7>dofF_:oQ_jLGJ43
+!s100 gVIV7C<aPhDV_3?Z`gzTh0
+R6
+32
+R16
+!i10b 1
+R17
+R23
+R24
+!i113 1
+R11
+R12
+Ealu_ua_f
+Z25 w1744870453
+R1
+R2
+!i122 3689
+R3
+Z26 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_F.vhd
+Z27 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_F.vhd
+l0
+L4 1
+V]hdYol?e]mZB2]JAbOjcP2
+!s100 GCF2e]^>l=?a?^4NGk8PD3
+R6
+32
+R7
+!i10b 1
+Z28 !s108 1745909832.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_F.vhd|
+Z30 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_F.vhd|
+!i113 1
+R11
+R12
+Aalu_ua_f
+R1
+R2
+DEx4 work 8 alu_ua_f 0 22 ]hdYol?e]mZB2]JAbOjcP2
+!i122 3689
+l55
+L16 52
+VOj_XTH<SRl_ljEaQL2kZX2
+!s100 :WFgQkKF7COm1;R0RXk9i2
+R6
+32
+R7
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R11
+R12
+Ealu_ul
+Z31 w1745545238
+R1
+R2
+!i122 3691
+R3
+Z32 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UL.vhd
+Z33 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UL.vhd
+l0
+L4 1
+V1OULY^6jZSVAF4lXBmQ9S2
+!s100 f=FLZ59k_89852<gDNZXF0
+R6
+32
+R7
+!i10b 1
+R8
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UL.vhd|
+Z35 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UL.vhd|
+!i113 1
+R11
+R12
+Aalu_ul
+R1
+R2
+DEx4 work 6 alu_ul 0 22 1OULY^6jZSVAF4lXBmQ9S2
+!i122 3691
+l80
+L12 86
+VW6A^nD>^?egPMIT4A<OaJ1
+!s100 Y=P_I0K75W7D=?o]nI2GR2
+R6
+32
+R7
+!i10b 1
+R8
+R34
+R35
+!i113 1
+R11
+R12
+Eand_8bits
+Z36 w1742866930
+R1
+R2
+!i122 3711
+R3
+Z37 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND_8bits.vhd
+Z38 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND_8bits.vhd
+l0
+L4 1
+VdEo0Hi8WkfhR2oE5H<K`21
+!s100 h9d:ETa^@l=TnFbLVdGl^0
+R6
+32
+Z39 !s110 1745909840
+!i10b 1
+Z40 !s108 1745909840.000000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND_8bits.vhd|
+Z42 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND_8bits.vhd|
+!i113 1
+R11
+R12
+Aand_8bits
+R1
+R2
+DEx4 work 9 and_8bits 0 22 dEo0Hi8WkfhR2oE5H<K`21
+!i122 3711
+l20
+Z43 L10 22
+V[@`Re>:1B5nDniNTXKKS`1
+!s100 ][kg?=bhd9[:;m`h`z?d03
+R6
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R11
+R12
+Eand_b
+Z44 w1742866025
+R1
+R2
+!i122 3710
+R3
+Z45 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND.vhd
+Z46 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND.vhd
+l0
+L4 1
+VUNgS0NY];Ekk]WJS9lG6>1
+!s100 hm=1EH[l1a>NX60AAhReE0
+R6
+32
+R39
+!i10b 1
+Z47 !s108 1745909839.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND.vhd|
+Z49 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND.vhd|
+!i113 1
+R11
+R12
+Aand_b
+R1
+R2
+DEx4 work 5 and_b 0 22 UNgS0NY];Ekk]WJS9lG6>1
+!i122 3710
+l12
+Z50 L10 7
+V8em@7h>WBHn6>Wlg=Ge_b2
+!s100 h7if30E]3T>jo5k7^djHh3
+R6
+32
+R39
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R11
+R12
+Ecomparador
+Z51 w1745003541
+R1
+R2
+!i122 3697
+R3
+Z52 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Comparador.vhd
+Z53 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Comparador.vhd
+l0
+L4 1
+Vj]6>@SKWo48aOzE:B[Ui[3
+!s100 PM<fSfi>QBSUn7NT]<=n83
+R6
+32
+Z54 !s110 1745909835
+!i10b 1
+Z55 !s108 1745909835.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Comparador.vhd|
+Z57 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Comparador.vhd|
+!i113 1
+R11
+R12
+Acomparador
+R1
+R2
+DEx4 work 10 comparador 0 22 j]6>@SKWo48aOzE:B[Ui[3
+!i122 3697
+l12
+R50
+Vo[g5o>d<G7Vm93fZkGC;50
+!s100 74EM>iZhR1UA>AWGTcYCd0
+R6
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R11
+R12
+Edatapath
+Z58 w1745903925
+R1
+R2
+!i122 3696
+R3
+Z59 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath.vhd
+Z60 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath.vhd
+l0
+L4 1
+VzHE8TJEb:hJhlPGLg_oJe2
+!s100 8a4jc<?]``05_TgZ0Ccoe3
+R6
+32
+R54
+!i10b 1
+R55
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath.vhd|
+Z62 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath.vhd|
+!i113 1
+R11
+R12
+Adatapath
+R1
+R2
+DEx4 work 8 datapath 0 22 zHE8TJEb:hJhlPGLg_oJe2
+!i122 3696
+l79
+L16 84
+VWN0W=@dMKWgAh;lQLOaTD2
+!s100 gV2;G`D_?]gjd6EX>l5Zo2
+R6
+32
+R54
+!i10b 1
+R55
+R61
+R62
+!i113 1
+R11
+R12
+Edatapath_pc
+Z63 w1745904576
+R1
+R2
+!i122 3726
+R3
+Z64 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd
+Z65 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd
+l0
+L4 1
+VMZHSVzbN6YDi?mXd[LfJV2
+!s100 =IQGXY[eJNVdU_kIzzZM[1
+R6
+32
+Z66 !s110 1745909845
+!i10b 1
+Z67 !s108 1745909844.000000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd|
+Z69 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd|
+!i113 1
+R11
+R12
+Adatapath_pc
+R1
+R2
+DEx4 work 11 datapath_pc 0 22 MZHSVzbN6YDi?mXd[LfJV2
+!i122 3726
+l93
+L24 140
+VVJBgheO:<J46eYJTYef?c2
+!s100 lSLFb<OSEV7dz2Z9LU]Mh2
+R6
+32
+R66
+!i10b 1
+R67
+R68
+R69
+!i113 1
+R11
+R12
+Edeco_2_a_4
+Z70 w1745372627
+R1
+R2
+!i122 3700
+R3
+Z71 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_2_a_4.vhd
+Z72 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_2_a_4.vhd
+l0
+L4 1
+Vk=BIPz7SbG=F<[@1RW7PE3
+!s100 Rh9d2c4`iie1IlQH8l;VU0
+R6
+32
+Z73 !s110 1745909836
+!i10b 1
+Z74 !s108 1745909836.000000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_2_a_4.vhd|
+Z76 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_2_a_4.vhd|
+!i113 1
+R11
+R12
+Adeco_2_a_4
+R1
+R2
+DEx4 work 10 deco_2_a_4 0 22 k=BIPz7SbG=F<[@1RW7PE3
+!i122 3700
+l11
+R50
+VQPb;OCcXLX7AD?Ok01R^`0
+!s100 385>UggkiP<JSWS[N;M5J0
+R6
+32
+R73
+!i10b 1
+R74
+R75
+R76
+!i113 1
+R11
+R12
+Edeco_3_a_8
+Z77 w1743117418
+R1
+R2
+!i122 3728
+R3
+Z78 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_3_a_8.vhd
+Z79 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_3_a_8.vhd
+l0
+L4 1
+V9UDZ3`4S^3ajDCbJ:6fF12
+!s100 Ta2cac22ZKEafM0D`7IJz3
+R6
+32
+R66
+!i10b 1
+Z80 !s108 1745909845.000000
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_3_a_8.vhd|
+Z82 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_3_a_8.vhd|
+!i113 1
+R11
+R12
+Adeco_3_a_8
+R1
+R2
+DEx4 work 10 deco_3_a_8 0 22 9UDZ3`4S^3ajDCbJ:6fF12
+!i122 3728
+l11
+L10 11
+VTNUHMH?nh^^W<1B?onE0D3
+!s100 icT4dXDna9io:mM<R:iAR1
+R6
+32
+R66
+!i10b 1
+R80
+R81
+R82
+!i113 1
+R11
+R12
+Edeco_5_a_32
+Z83 w1744529522
+R1
+R2
+!i122 3671
+R3
+Z84 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_5_32.vhd
+Z85 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_5_32.vhd
+l0
+L4 1
+V^0<WbVI=WEK3f_MSb9V=Y3
+!s100 YDGgYW20606njBKIz4fNS1
+R6
+32
+Z86 !s110 1745909827
+!i10b 1
+Z87 !s108 1745909827.000000
+Z88 !s90 -reportprogress|300|-work|Procesador|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_5_32.vhd|
+Z89 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_5_32.vhd|
+!i113 1
+Z90 o-work Procesador -2002 -explicit
+R12
+Adeco_5_a_32
+R1
+R2
+DEx4 work 11 deco_5_a_32 0 22 ^0<WbVI=WEK3f_MSb9V=Y3
+!i122 3671
+l14
+L13 35
+VYM4^lbL288XI?ilFIo<Hk0
+!s100 PkQ@1_lmn>NdkBSOdaGXE3
+R6
+32
+R86
+!i10b 1
+R87
+R88
+R89
+!i113 1
+R90
+R12
+Edemux_1a8
+Z91 w1745375827
+R1
+R2
+!i122 3702
+R3
+Z92 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8.vhd
+Z93 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8.vhd
+l0
+L4 1
+VC>O2;lkUUCFdOZlRGf=kd0
+!s100 2EGo=9Ih:7UJ=T_E]9?<c3
+R6
+32
+Z94 !s110 1745909837
+!i10b 1
+Z95 !s108 1745909837.000000
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8.vhd|
+Z97 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8.vhd|
+!i113 1
+R11
+R12
+Ademux_1a8
+R1
+R2
+DEx4 work 9 demux_1a8 0 22 C>O2;lkUUCFdOZlRGf=kd0
+!i122 3702
+l12
+L11 13
+V<69D[R]A0aK7j^5>RSZ8A3
+!s100 jFnFe`le_IBTMATh>]9aR1
+R6
+32
+R94
+!i10b 1
+R95
+R96
+R97
+!i113 1
+R11
+R12
+Edemux_1a8_8bits
+Z98 w1745382088
+R1
+R2
+!i122 3703
+R3
+Z99 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8_8bits.vhd
+Z100 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8_8bits.vhd
+l0
+L4 1
+V2?_1UZFN?S[eN]bdT@A6h2
+!s100 V;Bh_cNDlCVo6MZbc;BFM1
+R6
+32
+R94
+!i10b 1
+R95
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8_8bits.vhd|
+Z102 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8_8bits.vhd|
+!i113 1
+R11
+R12
+Ademux_1a8_8bits
+R1
+R2
+DEx4 work 15 demux_1a8_8bits 0 22 2?_1UZFN?S[eN]bdT@A6h2
+!i122 3703
+l19
+Z103 L11 18
+V<g`<a<?Q2TEQ3WP8K^h=_0
+!s100 G4bYhFGNAMTiXc@>Yfgzd2
+R6
+32
+R94
+!i10b 1
+R95
+R101
+R102
+!i113 1
+R11
+R12
+Efa
+Z104 w1742861292
+R1
+R2
+!i122 3688
+R3
+Z105 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FA.vhd
+Z106 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FA.vhd
+l0
+L4 1
+ViNf8SA1P8f:8feTaz86Kj1
+!s100 >g=YgP3_cBcQIzR7R`oEi2
+R6
+32
+Z107 !s110 1745909832
+!i10b 1
+R28
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FA.vhd|
+Z109 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FA.vhd|
+!i113 1
+R11
+R12
+Aar_fa
+R1
+R2
+DEx4 work 2 fa 0 22 iNf8SA1P8f:8feTaz86Kj1
+!i122 3688
+l10
+L9 5
+Va>ijlR<7OKTPYjm2A3lIJ1
+!s100 9zLlSUzS0mF5?^61@`f7E1
+R6
+32
+R107
+!i10b 1
+R28
+R108
+R109
+!i113 1
+R11
+R12
+Effd
+Z110 w1743355520
+R1
+R2
+!i122 3672
+R3
+Z111 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFD.vhd
+Z112 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFD.vhd
+l0
+L4 1
+V5:mDXeM@VboZgkQoOZg2;1
+!s100 PRc[Q`5BhXc@23m[E83:Z3
+R6
+32
+R86
+!i10b 1
+R87
+Z113 !s90 -reportprogress|300|-work|Procesador|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFD.vhd|
+Z114 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFD.vhd|
+!i113 1
+R90
+R12
+Aar_ffd
+R1
+R2
+DEx4 work 3 ffd 0 22 5:mDXeM@VboZgkQoOZg2;1
+!i122 3672
+l11
+L10 13
+VZk>8jM5dEnc@CFh1M1eXG3
+!s100 IePoUo`nH:I<6i@h[S9L20
+R6
+32
+R86
+!i10b 1
+R87
+R113
+R114
+!i113 1
+R90
+R12
+Effdw
+Z115 w1743117658
+R1
+R2
+!i122 3673
+R3
+Z116 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFDw.vhd
+Z117 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFDw.vhd
+l0
+L4 1
+VBhL@1YZ3S>QX>T:9CTXM^0
+!s100 79[njB`AEg>64Pa2[:o[U2
+R6
+32
+Z118 !s110 1745909828
+!i10b 1
+R87
+Z119 !s90 -reportprogress|300|-work|Procesador|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFDw.vhd|
+Z120 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFDw.vhd|
+!i113 1
+R90
+R12
+Affdw
+R1
+R2
+DEx4 work 4 ffdw 0 22 BhL@1YZ3S>QX>T:9CTXM^0
+!i122 3673
+l11
+L10 15
+VQ5]cbdb>:[dY^VPj?<;;C3
+!s100 ?ae;XS2;hNJ9iV9i9fKeG1
+R6
+32
+R118
+!i10b 1
+R87
+R119
+R120
+!i113 1
+R90
+R12
+Eflagregisterunit
+Z121 w1744919163
+R1
+R2
+!i122 3698
+R3
+Z122 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FlagRegisterUnit.vhd
+Z123 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FlagRegisterUnit.vhd
+l0
+L4 1
+V42aGncBf0f2dcRjOHz90M0
+!s100 S0An3?6DUhST@4kR_5dmm1
+R6
+32
+R73
+!i10b 1
+R55
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FlagRegisterUnit.vhd|
+Z125 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FlagRegisterUnit.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 16 flagregisterunit 0 22 42aGncBf0f2dcRjOHz90M0
+!i122 3698
+l23
+L13 36
+VLCiPE9M6@UDn:PC[[KVN81
+!s100 zOG7aYn2QNebN=@SljO<@1
+R6
+32
+R73
+!i10b 1
+R55
+R124
+R125
+!i113 1
+R11
+R12
+Emem_codigos
+Z126 w1745909933
+R1
+R2
+!i122 3732
+R3
+Z127 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+Z128 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+l0
+L4 1
+VM7Xj3VDYna>bk^bGID3;Z3
+!s100 HnLLn=a^ga=jMXV=^4FFX3
+R6
+32
+Z129 !s110 1745909939
+!i10b 1
+Z130 !s108 1745909939.000000
+Z131 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd|
+Z132 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd|
+!i113 1
+R11
+R12
+Amem_codigos
+R1
+R2
+Z133 DEx4 work 11 mem_codigos 0 22 M7Xj3VDYna>bk^bGID3;Z3
+!i122 3732
+l185
+Z134 L11 253
+VZMUmj1`Y5=VP;CilO1ZAY2
+!s100 1X5QG25Y;1n7[7O;YGO?R2
+R6
+32
+R129
+!i10b 1
+R130
+R131
+R132
+!i113 1
+R11
+R12
+Emem_datos
+Z135 w1744572819
+R1
+R2
+!i122 3674
+R3
+Z136 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos.vhd
+Z137 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos.vhd
+l0
+L4 1
+VCzFa<VKBgP`<?kT;gJSU@0
+!s100 :FeJP5f?`dLR[lLX@^Vz31
+R6
+32
+R118
+!i10b 1
+Z138 !s108 1745909828.000000
+Z139 !s90 -reportprogress|300|-work|Procesador|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos.vhd|
+Z140 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos.vhd|
+!i113 1
+R90
+R12
+Amem_datos
+R1
+R2
+DEx4 work 9 mem_datos 0 22 CzFa<VKBgP`<?kT;gJSU@0
+!i122 3674
+l146
+L13 209
+VC6@0L`Cb4Ra`b6J_KI^0T1
+!s100 Y``?fEGL3V1aEmJ[9D]2_2
+R6
+32
+R118
+!i10b 1
+R138
+R139
+R140
+!i113 1
+R90
+R12
+Emem_datos_256bits
+Z141 w1745383730
+R1
+R2
+!i122 263
+R3
+Z142 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256bits.vhd
+Z143 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256bits.vhd
+l0
+L4 1
+V^iY?SVZ=QH=:bg[Oj<k<G2
+!s100 Y63HODFOJk1MF?H_3P2Fh0
+R6
+32
+Z144 !s110 1745383733
+!i10b 1
+Z145 !s108 1745383732.000000
+Z146 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256bits.vhd|
+Z147 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256bits.vhd|
+!i113 1
+R11
+R12
+Amem_datos_256bits
+R1
+R2
+DEx4 work 17 mem_datos_256bits 0 22 ^iY?SVZ=QH=:bg[Oj<k<G2
+!i122 263
+l50
+Z148 L13 63
+VmciS;U`>9L1RaOP3[Y^3d2
+!s100 M5G9TFRneIN?Q5Zii4Xm`0
+R6
+32
+R144
+!i10b 1
+R145
+R146
+R147
+!i113 1
+R11
+R12
+Emem_datos_256r
+Z149 w1745452185
+R1
+R2
+!i122 3704
+R3
+Z150 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256R.vhd
+Z151 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256R.vhd
+l0
+L4 1
+V00_[F@ZAYMmOQR1fcRXoJ3
+!s100 z17dZ><CHPMNOKcj`WL:C0
+R6
+32
+Z152 !s110 1745909838
+!i10b 1
+R95
+Z153 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256R.vhd|
+Z154 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256R.vhd|
+!i113 1
+R11
+R12
+Amem_datos_256r
+R1
+R2
+DEx4 work 14 mem_datos_256r 0 22 00_[F@ZAYMmOQR1fcRXoJ3
+!i122 3704
+l50
+R148
+V[=CF4AVdDo8LiK^LHG7CN0
+!s100 8@HmH5fAjdH3@B9l2_fZ51
+R6
+32
+R152
+!i10b 1
+R95
+R153
+R154
+!i113 1
+R11
+R12
+Emux2a1
+Z155 w1742872953
+R1
+R2
+!i122 3680
+R3
+Z156 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a1.vhd
+Z157 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a1.vhd
+l0
+L8 1
+V9k:UcZA_aMP>o3hYAQQ<m1
+!s100 NHd1oDoK=Uh<Hj;eQ[NQF1
+R6
+32
+Z158 !s110 1745909830
+!i10b 1
+Z159 !s108 1745909830.000000
+Z160 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a1.vhd|
+Z161 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a1.vhd|
+!i113 1
+R11
+R12
+Aar_mux2a1
+R1
+R2
+DEx4 work 6 mux2a1 0 22 9k:UcZA_aMP>o3hYAQQ<m1
+!i122 3680
+l15
+L14 4
+Ve1h^>A@`R=JO2]S5FTD<:3
+!s100 RN[Ga8KR;YeM6hmAU?FIP0
+R6
+32
+R158
+!i10b 1
+R159
+R160
+R161
+!i113 1
+R11
+R12
+Emux2a18bits
+Z162 w1743272185
+R1
+R2
+!i122 3681
+R3
+Z163 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a18bits.vhd
+Z164 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a18bits.vhd
+l0
+L4 1
+V<Co@HX045aKBlV>K65lN]3
+!s100 8:j:kEW62HzCmOV2_3O2S2
+R6
+32
+R158
+!i10b 1
+R159
+Z165 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a18bits.vhd|
+Z166 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a18bits.vhd|
+!i113 1
+R11
+R12
+Aar_mux2a18bits
+R1
+R2
+DEx4 work 11 mux2a18bits 0 22 <Co@HX045aKBlV>K65lN]3
+!i122 3681
+l19
+R103
+V0VY:FV;VzfT37S94J[?Mc2
+!s100 POd6Kh^9?MRS:jo^HJW5O0
+R6
+32
+R158
+!i10b 1
+R159
+R165
+R166
+!i113 1
+R11
+R12
+Emux32_a_1
+Z167 w1744572588
+R1
+R2
+!i122 3675
+R3
+Z168 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_1.vhd
+Z169 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_1.vhd
+l0
+L4 1
+VIBbodRf=RZ6cza0I0>oIo0
+!s100 V^4ceXlle9B7UjaMoSffZ1
+R6
+32
+R118
+!i10b 1
+R138
+Z170 !s90 -reportprogress|300|-work|Procesador|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_1.vhd|
+Z171 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_1.vhd|
+!i113 1
+R90
+R12
+Amux32_a_1
+R1
+R2
+DEx4 work 9 mux32_a_1 0 22 IBbodRf=RZ6cza0I0>oIo0
+!i122 3675
+l15
+L14 35
+VRKR@PD5RP=Sll<`c=:2TS1
+!s100 oCN9Y3=cG6Nl[^ik;1]4o0
+R6
+32
+R118
+!i10b 1
+R138
+R170
+R171
+!i113 1
+R90
+R12
+Emux4a1
+Z172 w1743124208
+R1
+R2
+!i122 3682
+R3
+Z173 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a1.vhd
+Z174 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a1.vhd
+l0
+L4 1
+VVk3Xi=j]X1>6P:LPJniZ>0
+!s100 KkHPF=bGeOBh6^>bM0bP>0
+R6
+32
+R158
+!i10b 1
+R159
+Z175 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a1.vhd|
+Z176 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a1.vhd|
+!i113 1
+R11
+R12
+Aar_mux4a1
+R1
+R2
+DEx4 work 6 mux4a1 0 22 Vk3Xi=j]X1>6P:LPJniZ>0
+!i122 3682
+l12
+L11 7
+V4WFbLjM@043Ybnd0h0YC13
+!s100 anJ_i^lJMGaPTAboJZ3@e3
+R6
+32
+R158
+!i10b 1
+R159
+R175
+R176
+!i113 1
+R11
+R12
+Emux4a18bits
+Z177 w1743124282
+R1
+R2
+!i122 3683
+R3
+Z178 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a18Bits.vhd
+Z179 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a18Bits.vhd
+l0
+L4 1
+VR78O`TLaUdIjgJ@i>]5ZZ3
+!s100 RZ0cGlXSNzOf?`TJ>_KT_1
+R6
+32
+Z180 !s110 1745909831
+!i10b 1
+R159
+Z181 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a18Bits.vhd|
+Z182 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a18Bits.vhd|
+!i113 1
+R11
+R12
+Aar_mux4a18bits
+R1
+R2
+DEx4 work 11 mux4a18bits 0 22 R78O`TLaUdIjgJ@i>]5ZZ3
+!i122 3683
+l19
+R103
+Vii_Dd3XnmUW>BC4YN_o3_2
+!s100 :Zi`ETo1W;DEU0HO^5OmT0
+R6
+32
+R180
+!i10b 1
+R159
+R181
+R182
+!i113 1
+R11
+R12
+Emux8a1
+Z183 w1742871857
+R1
+R2
+!i122 3684
+R3
+Z184 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a1.vhd
+Z185 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a1.vhd
+l0
+L4 1
+VlPn>4ln^[f2<Q0j::=aLa2
+!s100 CZ]7c3`BkDZFfMJgo>IIg0
+R6
+32
+R180
+!i10b 1
+Z186 !s108 1745909831.000000
+Z187 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a1.vhd|
+Z188 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a1.vhd|
+!i113 1
+R11
+R12
+Amux8a1
+R1
+R2
+DEx4 work 6 mux8a1 0 22 lPn>4ln^[f2<Q0j::=aLa2
+!i122 3684
+l12
+L11 11
+VBWR<K34X8df2GIg<CPn?m1
+!s100 O1ad0[ic6CzgP^jf2@Rg:0
+R6
+32
+R180
+!i10b 1
+R186
+R187
+R188
+!i113 1
+R11
+R12
+Emux8a18bits
+Z189 w1745374557
+R1
+R2
+!i122 3685
+R3
+Z190 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a18bits.vhd
+Z191 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a18bits.vhd
+l0
+L4 1
+VZn6oZmoWGVk:<cGjm<QQc0
+!s100 AfVXnn5;dZcNVAgO[39fO3
+R6
+32
+R180
+!i10b 1
+R186
+Z192 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a18bits.vhd|
+Z193 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a18bits.vhd|
+!i113 1
+R11
+R12
+Amux8a18bits
+R1
+R2
+DEx4 work 11 mux8a18bits 0 22 Zn6oZmoWGVk:<cGjm<QQc0
+!i122 3685
+l18
+L11 17
+Vi`8@l5MKD3:2hYRETV5V;2
+!s100 YIee4:`lzaXWLEOnnU59[2
+R6
+32
+R180
+!i10b 1
+R186
+R192
+R193
+!i113 1
+R11
+R12
+Emux_32_a_18bits
+Z194 w1744572629
+R1
+R2
+!i122 3676
+R3
+Z195 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_18bits.vhd
+Z196 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_18bits.vhd
+l0
+L4 1
+VldgD[5oWPfcm5OR6J>@N53
+!s100 QWlef>PKmB_8>bzAdd88e2
+R6
+32
+R16
+!i10b 1
+R138
+Z197 !s90 -reportprogress|300|-work|Procesador|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_18bits.vhd|
+Z198 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_18bits.vhd|
+!i113 1
+R90
+R12
+Amux_32_a_18bits
+R1
+R2
+DEx4 work 15 mux_32_a_18bits 0 22 ldgD[5oWPfcm5OR6J>@N53
+!i122 3676
+l25
+L14 38
+V48LiV>B1bgQdU=o4aLA0K1
+!s100 NZc7B9P<mHUGm_PP[bPGG1
+R6
+32
+R16
+!i10b 1
+R138
+R197
+R198
+!i113 1
+R90
+R12
+Emux_32_a_1_21bits
+Z199 w1745454665
+R1
+R2
+!i122 3707
+R3
+Z200 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux_32_a_1_21Bits.vhd
+Z201 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux_32_a_1_21Bits.vhd
+l0
+L4 1
+VSMGFUTZG;IioclCnIm8l=0
+!s100 _[Ocf6L:8f=T0BEmjdY1f3
+R6
+32
+Z202 !s110 1745909839
+!i10b 1
+Z203 !s108 1745909838.000000
+Z204 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux_32_a_1_21Bits.vhd|
+Z205 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux_32_a_1_21Bits.vhd|
+!i113 1
+R11
+R12
+Amux_32_a_1_21bits
+R1
+R2
+DEx4 work 17 mux_32_a_1_21bits 0 22 SMGFUTZG;IioclCnIm8l=0
+!i122 3707
+l25
+L14 79
+VC[C4Tl<=Ijik`7A74Z2Vg1
+!s100 W@L5SVj>KLCm=P^95=Q1o3
+R6
+32
+R202
+!i10b 1
+R203
+R204
+R205
+!i113 1
+R11
+R12
+Enand_8bits
+Z206 w1742867356
+R1
+R2
+!i122 3713
+R3
+Z207 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND_8bits.vhd
+Z208 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND_8bits.vhd
+l0
+L4 1
+V6QG:OS2adWU^]PL7]m_1e0
+!s100 bj4JTY?Fc0LI3Z9m2?j`>0
+R6
+32
+R39
+!i10b 1
+R40
+Z209 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND_8bits.vhd|
+Z210 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND_8bits.vhd|
+!i113 1
+R11
+R12
+Anand_8bits
+R1
+R2
+DEx4 work 10 nand_8bits 0 22 6QG:OS2adWU^]PL7]m_1e0
+!i122 3713
+l20
+R43
+VWQPGj3M3WCF1>l^6@8AMh3
+!s100 MNkT6m;SdGNeZUA2@^L<h2
+R6
+32
+R39
+!i10b 1
+R40
+R209
+R210
+!i113 1
+R11
+R12
+Enand_b
+Z211 w1742867273
+R1
+R2
+!i122 3712
+R3
+Z212 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND.vhd
+Z213 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND.vhd
+l0
+L4 1
+ViCS=XQ<@7C[NYzodz]mh`3
+!s100 m`4ZU?^A7mbUjZW0R?fJi2
+R6
+32
+R39
+!i10b 1
+R40
+Z214 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND.vhd|
+Z215 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND.vhd|
+!i113 1
+R11
+R12
+Anand_b
+R1
+R2
+DEx4 work 6 nand_b 0 22 iCS=XQ<@7C[NYzodz]mh`3
+!i122 3712
+l12
+R50
+V:WfT3CnjW27JQQ6J8bTzj2
+!s100 B_zG7;;Ja?5]P0V`JF]G_0
+R6
+32
+R39
+!i10b 1
+R40
+R214
+R215
+!i113 1
+R11
+R12
+Enor_8bits
+Z216 w1742867134
+R1
+R2
+!i122 3715
+R3
+Z217 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR_8bits.vhd
+Z218 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR_8bits.vhd
+l0
+L4 1
+Vbc6gj[3<j1fB?<<iYC@eV2
+!s100 SMShP2UUO:ln=bS?za>Vm0
+R6
+32
+Z219 !s110 1745909841
+!i10b 1
+Z220 !s108 1745909841.000000
+Z221 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR_8bits.vhd|
+Z222 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR_8bits.vhd|
+!i113 1
+R11
+R12
+Anor_8bits
+R1
+R2
+DEx4 work 9 nor_8bits 0 22 bc6gj[3<j1fB?<<iYC@eV2
+!i122 3715
+l20
+R43
+VgfYNF3F9X<l86;e4O@;KN0
+!s100 gLcYOe=W=XMiCO]ccQ7@13
+R6
+32
+R219
+!i10b 1
+R220
+R221
+R222
+!i113 1
+R11
+R12
+Enor_b
+Z223 w1742867074
+R1
+R2
+!i122 3714
+R3
+Z224 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR.vhd
+Z225 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR.vhd
+l0
+L4 1
+V538;_4T11T:^EIl2GCe`92
+!s100 >c>c]9ChH75B28V^eWX790
+R6
+32
+R219
+!i10b 1
+R220
+Z226 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR.vhd|
+Z227 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR.vhd|
+!i113 1
+R11
+R12
+Anor_b
+R1
+R2
+DEx4 work 5 nor_b 0 22 538;_4T11T:^EIl2GCe`92
+!i122 3714
+l12
+R50
+V^i6egMcg6NT84;:gaCW<X0
+!s100 gT7HTlJVl@:n7hhh<C2P02
+R6
+32
+R219
+!i10b 1
+R220
+R226
+R227
+!i113 1
+R11
+R12
+Enot_a
+Z228 w1744674251
+R1
+R2
+!i122 3716
+R3
+Z229 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A.vhd
+Z230 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A.vhd
+l0
+L4 1
+V6zbMdWz:LfM7gNQ<S3_OG0
+!s100 8<V_`5W`:d8UDGTCTI`@@3
+R6
+32
+R219
+!i10b 1
+R220
+Z231 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A.vhd|
+Z232 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A.vhd|
+!i113 1
+R11
+R12
+Anot_a
+R1
+R2
+DEx4 work 5 not_a 0 22 6zbMdWz:LfM7gNQ<S3_OG0
+!i122 3716
+l12
+R50
+VYo^z8E^bYHW]J^n6a0[bK3
+!s100 6M7Db>Wg6IFVT6?iK?JKh0
+R6
+32
+R219
+!i10b 1
+R220
+R231
+R232
+!i113 1
+R11
+R12
+Enot_a_8bits
+Z233 w1745545134
+R1
+R2
+!i122 3717
+R3
+Z234 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A_8bits.vhd
+Z235 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A_8bits.vhd
+l0
+L4 1
+Va_gba;U6jVQ;Ee<RNE;Ke2
+!s100 Kj4RSGZ6<8PK8=0klOz1l1
+R6
+32
+Z236 !s110 1745909842
+!i10b 1
+R220
+Z237 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A_8bits.vhd|
+Z238 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A_8bits.vhd|
+!i113 1
+R11
+R12
+Anot_a_8bits
+R1
+R2
+DEx4 work 11 not_a_8bits 0 22 a_gba;U6jVQ;Ee<RNE;Ke2
+!i122 3717
+l20
+R43
+VH2iMTe@_cLKjLO>c;D:eC1
+!s100 =7Bb0hS8NXU``oJBOJCJA0
+R6
+32
+R236
+!i10b 1
+R220
+R237
+R238
+!i113 1
+R11
+R12
+Enot_b
+Z239 w1744674265
+R1
+R2
+!i122 3718
+R3
+Z240 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B.vhd
+Z241 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B.vhd
+l0
+L4 1
+VgN>]kIYLc1YJOC8G]<K?z2
+!s100 cC:NcK;]C?Gh?]HblYP041
+R6
+32
+R236
+!i10b 1
+Z242 !s108 1745909842.000000
+Z243 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B.vhd|
+Z244 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B.vhd|
+!i113 1
+R11
+R12
+Anot_b
+R1
+R2
+DEx4 work 5 not_b 0 22 gN>]kIYLc1YJOC8G]<K?z2
+!i122 3718
+l12
+R50
+VJAT@HMC0kj8z[9TbNmheX3
+!s100 @CSMzbijK68?k<>ECHB3E3
+R6
+32
+R236
+!i10b 1
+R242
+R243
+R244
+!i113 1
+R11
+R12
+Enot_b_8bits
+Z245 w1745545147
+R1
+R2
+!i122 3719
+R3
+Z246 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B_8bits.vhd
+Z247 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B_8bits.vhd
+l0
+L4 1
+VWCVeSzYGc@S8KfY3aWMSf0
+!s100 LzOB1bP<V7L?bJUbEk8B@3
+R6
+32
+R236
+!i10b 1
+R242
+Z248 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B_8bits.vhd|
+Z249 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B_8bits.vhd|
+!i113 1
+R11
+R12
+Anot_b_8bits
+R1
+R2
+DEx4 work 11 not_b_8bits 0 22 WCVeSzYGc@S8KfY3aWMSf0
+!i122 3719
+l20
+R43
+VGJZjWe[PM_0nHFlKMGB=S0
+!s100 XUfh2?eVDHG_DYXMz7WD<3
+R6
+32
+R236
+!i10b 1
+R242
+R248
+R249
+!i113 1
+R11
+R12
+Enxor_8bits
+Z250 w1742867588
+R1
+R2
+!i122 3721
+R3
+Z251 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR_8bits.vhd
+Z252 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR_8bits.vhd
+l0
+L4 1
+V`g1<YF7??J`<9UUAYjP191
+!s100 ;@elehZAQzcN]JZ4JbiZ^1
+R6
+32
+Z253 !s110 1745909843
+!i10b 1
+Z254 !s108 1745909843.000000
+Z255 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR_8bits.vhd|
+Z256 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR_8bits.vhd|
+!i113 1
+R11
+R12
+Anxor_8bits
+R1
+R2
+DEx4 work 10 nxor_8bits 0 22 `g1<YF7??J`<9UUAYjP191
+!i122 3721
+l20
+R43
+V9YD`16@0:IfBD`Jo?PHEa1
+!s100 `0mRWITm82SISk:ndiQh51
+R6
+32
+R253
+!i10b 1
+R254
+R255
+R256
+!i113 1
+R11
+R12
+Enxor_b
+Z257 w1742867515
+R1
+R2
+!i122 3720
+R3
+Z258 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR.vhd
+Z259 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR.vhd
+l0
+L4 1
+VZ[CLKHC?bJT?Z^2n`@ghU0
+!s100 M4JKk@zcAMo]nceLf1Jo52
+R6
+32
+R253
+!i10b 1
+R242
+Z260 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR.vhd|
+Z261 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR.vhd|
+!i113 1
+R11
+R12
+Anxor_b
+R1
+R2
+DEx4 work 6 nxor_b 0 22 Z[CLKHC?bJT?Z^2n`@ghU0
+!i122 3720
+l12
+R50
+V7TRB;Shf8_S67[fE3lIC;0
+!s100 XEo@hc5b@aCXFXoRI4zKN0
+R6
+32
+R253
+!i10b 1
+R242
+R260
+R261
+!i113 1
+R11
+R12
+Eor_8bits
+Z262 w1742866966
+R1
+R2
+!i122 3723
+R3
+Z263 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR_8bits.vhd
+Z264 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR_8bits.vhd
+l0
+L4 1
+VYDF9S]ncCg?l1eR@@cbR51
+!s100 S3WeE3WY>mkJ;3AHg^<L>1
+R6
+32
+Z265 !s110 1745909844
+!i10b 1
+R254
+Z266 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR_8bits.vhd|
+Z267 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR_8bits.vhd|
+!i113 1
+R11
+R12
+Aor_8bits
+R1
+R2
+DEx4 work 8 or_8bits 0 22 YDF9S]ncCg?l1eR@@cbR51
+!i122 3723
+l20
+R43
+V[hh4ol6?h?KCaRD1zP6X`2
+!s100 FVm6dAAPZnog57k1[GgKM1
+R6
+32
+R265
+!i10b 1
+R254
+R266
+R267
+!i113 1
+R11
+R12
+Eor_b
+Z268 w1742866280
+R1
+R2
+!i122 3722
+R3
+Z269 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR.vhd
+Z270 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR.vhd
+l0
+L4 1
+V5VPiT58l=]d8gocgbD`RH2
+!s100 JX>MH96WBAI_JEmVaUiI?0
+R6
+32
+R253
+!i10b 1
+R254
+Z271 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR.vhd|
+Z272 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR.vhd|
+!i113 1
+R11
+R12
+Aor_b
+R1
+R2
+DEx4 work 4 or_b 0 22 5VPiT58l=]d8gocgbD`RH2
+!i122 3722
+l12
+R50
+Vho64TRYUe5lXWhVULC>cC1
+!s100 hS_6OUz[1ii=TijN[lW982
+R6
+32
+R253
+!i10b 1
+R254
+R271
+R272
+!i113 1
+R11
+R12
+Epc
+Z273 w1745890105
+R1
+R2
+!i122 3694
+R3
+Z274 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_Contador_(PC).vhd
+Z275 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_Contador_(PC).vhd
+l0
+L4 1
+V<KW>LNUlj;Fz4`0[E9K3K1
+!s100 JAM1S[=eoDhKCaffl4cc^2
+R6
+32
+Z276 !s110 1745909834
+!i10b 1
+Z277 !s108 1745909834.000000
+Z278 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_Contador_(PC).vhd|
+Z279 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_Contador_(PC).vhd|
+!i113 1
+R11
+R12
+Apc
+R1
+R2
+DEx4 work 2 pc 0 22 <KW>LNUlj;Fz4`0[E9K3K1
+!i122 3694
+l49
+L11 50
+Vka0HfDCCoI7doE1AeM[[Y0
+!s100 Y:Fd[DDL4EHIWf?io>70X0
+R6
+32
+R276
+!i10b 1
+R277
+R278
+R279
+!i113 1
+R11
+R12
+Eprocesador
+Z280 w1745892289
+R1
+R2
+!i122 3727
+R3
+Z281 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador.vhd
+Z282 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador.vhd
+l0
+L4 1
+VUd^c=NGJYPkQZzgLTFdbC0
+!s100 Pi0:UISOVjY^S_lKSVOYK2
+R6
+32
+R66
+!i10b 1
+R80
+Z283 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador.vhd|
+Z284 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador.vhd|
+!i113 1
+R11
+R12
+Aprocesador
+R1
+R2
+DEx4 work 10 procesador 0 22 Ud^c=NGJYPkQZzgLTFdbC0
+!i122 3727
+l70
+L19 82
+VO=MSdZcWA9khG:0fgnS9@0
+!s100 K^CK5Na:jl1eXoU=1lSQ>0
+R6
+32
+R66
+!i10b 1
+R80
+R283
+R284
+!i113 1
+R11
+R12
+Eprocesador_test
+Z285 w1745895044
+R1
+R2
+!i122 3731
+R3
+Z286 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador_Test.vhd
+Z287 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador_Test.vhd
+l0
+L4 1
+VdBZd60YK^D=0EdNO1MQm>0
+!s100 3RVlnF0Fj6m7l1zcQ[JVB1
+R6
+32
+Z288 !s110 1745909846
+!i10b 1
+Z289 !s108 1745909846.000000
+Z290 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador_Test.vhd|
+Z291 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador_Test.vhd|
+!i113 1
+R11
+R12
+Aprocesador_test
+R1
+R2
+DEx4 work 15 procesador_test 0 22 dBZd60YK^D=0EdNO1MQm>0
+!i122 3731
+l37
+L7 497
+Vf4VY`<d60><H^[a2<;gjI3
+!s100 4[Ahm;I^7_GHDU`<YRj@n0
+R6
+32
+R288
+!i10b 1
+R289
+R290
+R291
+!i113 1
+R11
+R12
+Eregistro_21_bits
+Z292 w1745452668
+R1
+R2
+!i122 3708
+R3
+Z293 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_21_Bits.vhd
+Z294 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_21_Bits.vhd
+l0
+L4 1
+Vjk8kG4]:EP[F:`3Yl[N;@0
+!s100 _mX?Fm:3[lWD1LnCILTO;0
+R6
+32
+R202
+!i10b 1
+R47
+Z295 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_21_Bits.vhd|
+Z296 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_21_Bits.vhd|
+!i113 1
+R11
+R12
+Aregistro_21_bits
+R1
+R2
+DEx4 work 16 registro_21_bits 0 22 jk8kG4]:EP[F:`3Yl[N;@0
+!i122 3708
+l17
+L11 29
+V5E`T:l0@HWR@dAaDU`fW92
+!s100 X1WPG1hgPlIo54f9KG4SZ0
+R6
+32
+R202
+!i10b 1
+R47
+R295
+R296
+!i113 1
+R11
+R12
+Eregistro_8_bits
+Z297 w1745131019
+R1
+R2
+!i122 3677
+R3
+Z298 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro8Bits.vhd
+Z299 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro8Bits.vhd
+l0
+L4 1
+V?69fTE8`^YXQVJ7gajm3K1
+!s100 ak^ccaa[^i8LK2Eo3ncIo1
+R6
+32
+R16
+!i10b 1
+R17
+Z300 !s90 -reportprogress|300|-work|Procesador|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro8Bits.vhd|
+Z301 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro8Bits.vhd|
+!i113 1
+R90
+R12
+Aregistro_8_bits
+R1
+R2
+DEx4 work 15 registro_8_bits 0 22 ?69fTE8`^YXQVJ7gajm3K1
+!i122 3677
+l17
+L11 16
+VmigaC7YjAElzNbC^XHaT[2
+!s100 4Ve]_a24U1GKf;=`HFlMe0
+R6
+32
+R16
+!i10b 1
+R17
+R300
+R301
+!i113 1
+R90
+R12
+Eregistro_banderas
+Z302 w1745131594
+R1
+R2
+!i122 3699
+R3
+Z303 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_banderas.vhd
+Z304 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_banderas.vhd
+l0
+L4 1
+VHTFX8nQ^;fI2Tkg<om>CK1
+!s100 HgzE@JC3imh9BCz;_oJ]A2
+R6
+32
+R73
+!i10b 1
+R74
+Z305 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_banderas.vhd|
+Z306 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_banderas.vhd|
+!i113 1
+R11
+R12
+Aregistro_banderas
+R1
+R2
+DEx4 work 17 registro_banderas 0 22 HTFX8nQ^;fI2Tkg<om>CK1
+!i122 3699
+l20
+L12 16
+VEY[0@iaM<S?6CPY8ZeK802
+!s100 zHBlL_]SnKZz5W=_:Q78z2
+R6
+32
+R73
+!i10b 1
+R74
+R305
+R306
+!i113 1
+R11
+R12
+Eregistrocw
+Z307 w1745897256
+R1
+R2
+!i122 3706
+R3
+Z308 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroCW.vhd
+Z309 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroCW.vhd
+l0
+L4 1
+V^JZM330I`H2[8^=>@UlLc1
+!s100 XRf0ebQLVLY1cB:B:B[821
+R6
+32
+R152
+!i10b 1
+R203
+Z310 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroCW.vhd|
+Z311 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroCW.vhd|
+!i113 1
+R11
+R12
+Aregistrocw
+R1
+R2
+DEx4 work 10 registrocw 0 22 ^JZM330I`H2[8^=>@UlLc1
+!i122 3706
+l37
+L31 41
+V>_C8EWWYEg`EmPNfG4`iN1
+!s100 i5ZKU8APoicQclBkUa0EL0
+R6
+32
+R152
+!i10b 1
+R203
+R310
+R311
+!i113 1
+R11
+R12
+Eregistroir
+Z312 w1745897231
+R1
+R2
+!i122 3705
+R3
+Z313 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroIR.vhd
+Z314 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroIR.vhd
+l0
+L4 1
+V:n3M5dk`jb2;2:OiFf4M63
+!s100 7f[3hLb6U0>AifcCa@_1I1
+R6
+32
+R152
+!i10b 1
+R203
+Z315 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroIR.vhd|
+Z316 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroIR.vhd|
+!i113 1
+R11
+R12
+Aregistroir
+R1
+R2
+DEx4 work 10 registroir 0 22 :n3M5dk`jb2;2:OiFf4M63
+!i122 3705
+l28
+L22 39
+VYM6QP3=_jhD^TL06:cQk>2
+!s100 GT<;dbZi2WPf4hD]e0>MM3
+R6
+32
+R152
+!i10b 1
+R203
+R315
+R316
+!i113 1
+R11
+R12
+Esalto_valido
+Z317 w1744870080
+R1
+R2
+!i122 3686
+R3
+Z318 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Salto_Valido.vhd
+Z319 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Salto_Valido.vhd
+l0
+L4 1
+Vi:z5l7@NhC<@L05I>e6<I1
+!s100 P_dX]Ed7SdOe^FGccJ?Gl2
+R6
+32
+R107
+!i10b 1
+R186
+Z320 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Salto_Valido.vhd|
+Z321 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Salto_Valido.vhd|
+!i113 1
+R11
+R12
+Asalto_valido
+R1
+R2
+DEx4 work 12 salto_valido 0 22 i:z5l7@NhC<@L05I>e6<I1
+!i122 3686
+l31
+L11 30
+VXnDPjj[PTVg6Qbmio>YM<1
+!s100 @zFCGM_@nZSRm78Hz>S1H3
+R6
+32
+R107
+!i10b 1
+R186
+R320
+R321
+!i113 1
+R11
+R12
+Esecuenciador
+Z322 w1745802421
+R1
+R2
+!i122 3701
+R3
+Z323 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Secuenciador.vhd
+Z324 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Secuenciador.vhd
+l0
+L4 1
+V>oUXN7flLh6KWhjfQU08H1
+!s100 ;`E2I^BUUd2jhkF05Ga@j3
+R6
+32
+R94
+!i10b 1
+R74
+Z325 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Secuenciador.vhd|
+Z326 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Secuenciador.vhd|
+!i113 1
+R11
+R12
+Asecuenciador
+R1
+R2
+DEx4 work 12 secuenciador 0 22 >oUXN7flLh6KWhjfQU08H1
+!i122 3701
+l31
+L12 42
+V=G9;1zh4LLB1Nm>PDS27z2
+!s100 ]dZ`k;9IXf9C32Mm]CUPN2
+R6
+32
+R94
+!i10b 1
+R74
+R325
+R326
+!i113 1
+R11
+R12
+Eshifter
+Z327 w1744871811
+R1
+R2
+!i122 3692
+R3
+Z328 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Shifter.vhd
+Z329 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Shifter.vhd
+l0
+L4 1
+VUiMSP5W8K`j2V[n;1CVTi2
+!s100 4];`mEbzfCR83g`2md<nF2
+R6
+32
+R276
+!i10b 1
+R8
+Z330 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Shifter.vhd|
+Z331 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Shifter.vhd|
+!i113 1
+R11
+R12
+Ashifter
+R1
+R2
+DEx4 work 7 shifter 0 22 UiMSP5W8K`j2V[n;1CVTi2
+!i122 3692
+l24
+L12 26
+VR^daYhWdYG90FMInTGdQS3
+!s100 bo^RXWXN23<_VU<]b]1km3
+R6
+32
+R276
+!i10b 1
+R8
+R330
+R331
+!i113 1
+R11
+R12
+Esumador8bits
+Z332 w1742861211
+R1
+R2
+!i122 3687
+R3
+Z333 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits.vhd
+Z334 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits.vhd
+l0
+L5 1
+VmBEJ?;Nij;Z3Jo:O<G[HK0
+!s100 T]2Q3>dSeM]j`W^@m;;Zd2
+R6
+32
+R107
+!i10b 1
+R28
+Z335 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits.vhd|
+Z336 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits.vhd|
+!i113 1
+R11
+R12
+Aar_sumador8bits
+R1
+R2
+DEx4 work 12 sumador8bits 0 22 mBEJ?;Nij;Z3Jo:O<G[HK0
+!i122 3687
+l25
+L15 26
+VzcYKh3kUMYm;<5=L^7TNE3
+!s100 <6k1ZolLZYkR1P27<K]^;3
+R6
+32
+R107
+!i10b 1
+R28
+R335
+R336
+!i113 1
+R11
+R12
+Esumador_pc
+Z337 w1745890178
+R1
+R2
+!i122 3695
+R3
+Z338 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits_PC.vhd
+Z339 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits_PC.vhd
+l0
+L4 1
+VY10SNX]@40MXPlDgCAdY`0
+!s100 ?UL`0d=zg_gbmfW2Vn=Ek2
+R6
+32
+R54
+!i10b 1
+R277
+Z340 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits_PC.vhd|
+Z341 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits_PC.vhd|
+!i113 1
+R11
+R12
+Asumador_pc
+R1
+R2
+DEx4 work 10 sumador_pc 0 22 Y10SNX]@40MXPlDgCAdY`0
+!i122 3695
+l21
+L11 21
+V@d[D67iFmW@NVMPUASQ2E2
+!s100 JGGGg4ld;UOIlCZiRGiNi2
+R6
+32
+R54
+!i10b 1
+R277
+R340
+R341
+!i113 1
+R11
+R12
+Eua_test
+Z342 w1744869653
+R1
+R2
+!i122 732
+R3
+Z343 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UA_test.vhd
+Z344 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UA_test.vhd
+l0
+L4 1
+Vfh]M1]MVkjc]3[jnaSE>K3
+!s100 J`]Df>Z@?m_fGFi8Db4jB1
+R6
+32
+Z345 !s110 1745545244
+!i10b 1
+Z346 !s108 1745545244.000000
+Z347 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UA_test.vhd|
+Z348 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UA_test.vhd|
+!i113 1
+R11
+R12
+Aua_test
+R1
+R2
+DEx4 work 7 ua_test 0 22 fh]M1]MVkjc]3[jnaSE>K3
+!i122 732
+l30
+L7 48
+V39V3HWBHbm5LNG3V]D1Qc3
+!s100 R2F3QzcKACzLJ6Q?zl6eA1
+R6
+32
+R345
+!i10b 1
+R346
+R347
+R348
+!i113 1
+R11
+R12
+Euf
+Z349 w1745909823
+R1
+R2
+!i122 3693
+R3
+Z350 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UF.vhd
+Z351 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UF.vhd
+l0
+L4 1
+VXiQE@D31]Lba8]7B:=zl40
+!s100 cTfCTo9R5RB]=WN6b=MzJ0
+R6
+32
+R276
+!i10b 1
+R277
+Z352 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UF.vhd|
+Z353 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UF.vhd|
+!i113 1
+R11
+R12
+Auf
+R1
+R2
+DEx4 work 2 uf 0 22 XiQE@D31]Lba8]7B:=zl40
+!i122 3693
+l64
+L13 68
+VQZ6ia^^^=UPJHTU2i9Mk43
+!s100 dJm8kNTDaQCXkNR^_h1Ta3
+R6
+32
+R276
+!i10b 1
+R277
+R352
+R353
+!i113 1
+R11
+R12
+Euf_tb
+Z354 w1745549093
+R1
+R2
+!i122 780
+R3
+Z355 8C:/Users/Jonathan/Downloads/UF_tb.vhd
+Z356 FC:/Users/Jonathan/Downloads/UF_tb.vhd
+l0
+L4 1
+VaRgn=Do_mXE38I?Wj<meF0
+!s100 Z7]TRHZG[DUHP7PWb<a<;2
+R6
+32
+Z357 !s110 1745549110
+!i10b 1
+Z358 !s108 1745549110.000000
+Z359 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Downloads/UF_tb.vhd|
+Z360 !s107 C:/Users/Jonathan/Downloads/UF_tb.vhd|
+!i113 1
+R11
+R12
+Aar_tb
+R1
+R2
+DEx4 work 5 uf_tb 0 22 aRgn=Do_mXE38I?Wj<meF0
+!i122 780
+l25
+L7 90
+VnXn?HPnXO>BQ=GmhX^9]J0
+!s100 V`ng3oKID6jc=9QaFUh:b3
+R6
+32
+R357
+!i10b 1
+R358
+R359
+R360
+!i113 1
+R11
+R12
+Eur_complete
+Z361 w1743351795
+R1
+R2
+!i122 3729
+R3
+Z362 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Complete.vhd
+Z363 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Complete.vhd
+l0
+L4 1
+V2c20O=PEgP:a3VLDB@>IE0
+!s100 ]_V8nW?b`E0hZ9P7Y3cRl3
+R6
+32
+R288
+!i10b 1
+R80
+Z364 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Complete.vhd|
+Z365 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Complete.vhd|
+!i113 1
+R11
+R12
+Aur_complete
+R1
+R2
+DEx4 work 11 ur_complete 0 22 2c20O=PEgP:a3VLDB@>IE0
+!i122 3729
+l41
+L13 33
+VCJ^iWOacSVDnV2TCK>aPD2
+!s100 D@8bMCW[4OEUnmGikNY1<1
+R6
+32
+R288
+!i10b 1
+R80
+R364
+R365
+!i113 1
+R11
+R12
+Eur_in
+Z366 w1743351728
+R1
+R2
+!i122 3730
+R3
+Z367 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Entrada.vhd
+Z368 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Entrada.vhd
+l0
+L4 1
+VB6hJ>Y4TMB^W[?OBHbb6U0
+!s100 `0^aPbC0@VZmc>_;RY>J]3
+R6
+32
+R288
+!i10b 1
+R289
+Z369 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Entrada.vhd|
+Z370 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Entrada.vhd|
+!i113 1
+R11
+R12
+Aur_in
+R1
+R2
+DEx4 work 5 ur_in 0 22 B6hJ>Y4TMB^W[?OBHbb6U0
+!i122 3730
+l52
+L13 60
+Vk^92hM4^Th2C3=cWXFmJb0
+!s100 VomQhdMkl?K[;OLU9VmCX0
+R6
+32
+R288
+!i10b 1
+R289
+R369
+R370
+!i113 1
+R11
+R12
+Exor_8bits
+Z371 w1742866991
+R1
+R2
+!i122 3725
+R3
+Z372 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR_8bits.vhd
+Z373 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR_8bits.vhd
+l0
+L4 1
+V:2`n0z]>oGf:E0ULB]ZAG3
+!s100 ZdQf0fmVgai2G==7]1[3a2
+R6
+32
+R265
+!i10b 1
+R67
+Z374 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR_8bits.vhd|
+Z375 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR_8bits.vhd|
+!i113 1
+R11
+R12
+Axor_8bits
+R1
+R2
+DEx4 work 9 xor_8bits 0 22 :2`n0z]>oGf:E0ULB]ZAG3
+!i122 3725
+l20
+R43
+VW0D6gR9T=j>MMfU<?hm9R2
+!s100 g<4?CS^n=jNI1f3ke^U@H0
+R6
+32
+R265
+!i10b 1
+R67
+R374
+R375
+!i113 1
+R11
+R12
+Exor_b
+Z376 w1742866808
+R1
+R2
+!i122 3724
+R3
+Z377 8C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR.vhd
+Z378 FC:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR.vhd
+l0
+L4 1
+VzQz3LX5ZaPl[V3:4K1ZIm1
+!s100 F0Lz`Q5ZT?mSG;SNX:]R<0
+R6
+32
+R265
+!i10b 1
+R67
+Z379 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR.vhd|
+Z380 !s107 C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR.vhd|
+!i113 1
+R11
+R12
+Axor_b
+R1
+R2
+DEx4 work 5 xor_b 0 22 zQz3LX5ZaPl[V3:4K1ZIm1
+!i122 3724
+l12
+R50
+V_ONZ4G^G_G9X8<H;zbUlz3
+!s100 QLz][PSkJCibaTMRn8hSC2
+R6
+32
+R265
+!i10b 1
+R67
+R379
+R380
+!i113 1
+R11
+R12

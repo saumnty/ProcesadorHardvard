@@ -1,0 +1,2805 @@
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath_PC
+# -- Compiling architecture Datapath_PC of Datapath_PC
+# 
+# 
+vsim -gui Procesador.procesador_test
+# vsim -gui Procesador.procesador_test 
+# Start time: 23:31:46 on Apr 28,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Procesador.procesador_test(procesador_test)
+# Loading Procesador.procesador(procesador)
+# Loading Procesador.secuenciador(secuenciador)
+# Loading Procesador.ffd(ar_ffd)
+# Loading Procesador.deco_3_a_8(deco_3_a_8)
+# Loading Procesador.datapath_pc(datapath_pc)
+# Loading Procesador.mem_codigos(mem_codigos)
+# Loading Procesador.deco_5_a_32(deco_5_a_32)
+# Loading Procesador.and_b(and_b)
+# Loading Procesador.registro_21_bits(registro_21_bits)
+# Loading Procesador.ffdw(ffdw)
+# Loading Procesador.mux_32_a_1_21bits(mux_32_a_1_21bits)
+# Loading Procesador.mux32_a_1(mux32_a_1)
+# Loading Procesador.registroir(registroir)
+# Loading Procesador.registrocw(registrocw)
+# Loading Procesador.pc(pc)
+# Loading Procesador.mux2a18bits(ar_mux2a18bits)
+# Loading Procesador.mux2a1(ar_mux2a1)
+# Loading Procesador.sumador_pc(sumador_pc)
+# Loading Procesador.fa(ar_fa)
+# Loading Procesador.registro_8_bits(registro_8_bits)
+# Loading Procesador.datapath(datapath)
+# Loading Procesador.mem_datos_256r(mem_datos_256r)
+# Loading Procesador.demux_1a8_8bits(demux_1a8_8bits)
+# Loading Procesador.demux_1a8(demux_1a8)
+# Loading Procesador.mem_datos(mem_datos)
+# Loading Procesador.mux_32_a_18bits(mux_32_a_18bits)
+# Loading Procesador.mux8a18bits(mux8a18bits)
+# Loading Procesador.mux8a1(mux8a1)
+# Loading Procesador.ur_complete(ur_complete)
+# Loading Procesador.ur_in(ur_in)
+# Loading Procesador.uf(uf)
+# Loading Procesador.alu(alu)
+# Loading Procesador.alu_ua_f(alu_ua_f)
+# Loading Procesador.alu_ua_8bits(alu_ua_8bits)
+# Loading Procesador.alu_ua(alu_ua)
+# Loading Procesador.sumador8bits(ar_sumador8bits)
+# Loading Procesador.alu_ul(alu_ul)
+# Loading Procesador.and_8bits(and_8bits)
+# Loading Procesador.or_8bits(or_8bits)
+# Loading Procesador.or_b(or_b)
+# Loading Procesador.not_a_8bits(not_a_8bits)
+# Loading Procesador.not_a(not_a)
+# Loading Procesador.xor_8bits(xor_8bits)
+# Loading Procesador.xor_b(xor_b)
+# Loading Procesador.nor_8bits(nor_8bits)
+# Loading Procesador.nor_b(nor_b)
+# Loading Procesador.nand_8bits(nand_8bits)
+# Loading Procesador.nand_b(nand_b)
+# Loading Procesador.nxor_8bits(nxor_8bits)
+# Loading Procesador.nxor_b(nxor_b)
+# Loading Procesador.not_b_8bits(not_b_8bits)
+# Loading Procesador.not_b(not_b)
+# Loading Procesador.shifter(shifter)
+# Loading Procesador.mux4a1(ar_mux4a1)
+# Loading Procesador.registro_banderas(registro_banderas)
+# Loading Procesador.salto_valido(salto_valido)
+# ** Warning: Design size of 77415 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+add wave -position insertpoint sim:/procesador_test/*
+run
+run
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath_PC
+# -- Compiling architecture Datapath_PC of Datapath_PC
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_5_32.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_5_a_32
+# -- Compiling architecture Deco_5_a_32 of Deco_5_a_32
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFD.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FFD
+# -- Compiling architecture Ar_FFD of FFD
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFDw.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FFDw
+# -- Compiling architecture FFDw of FFDw
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Datos
+# -- Compiling architecture Mem_Datos of Mem_Datos
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux32_a_1
+# -- Compiling architecture Mux32_a_1 of Mux32_a_1
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_32_a_18Bits
+# -- Compiling architecture Mux_32_a_18Bits of Mux_32_a_18Bits
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro8Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_8_Bits
+# -- Compiling architecture Registro_8_Bits of Registro_8_Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA
+# -- Compiling architecture ALU_UA of ALU_UA
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA_8bits
+# -- Compiling architecture ALU_UA_8bits of ALU_UA_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2a1
+# -- Compiling architecture Ar_Mux2a1 of Mux2a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2a18Bits
+# -- Compiling architecture Ar_Mux2a18Bits of Mux2a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4a1
+# -- Compiling architecture Ar_Mux4a1 of Mux4a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a18Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4a18Bits
+# -- Compiling architecture Ar_Mux4a18Bits of Mux4a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8a1
+# -- Compiling architecture Mux8a1 of Mux8a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8a18Bits
+# -- Compiling architecture Mux8a18Bits of Mux8a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Salto_Valido.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Salto_Valido
+# -- Compiling architecture Salto_Valido of Salto_Valido
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sumador8Bits
+# -- Compiling architecture Ar_Sumador8Bits of Sumador8Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FA.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FA
+# -- Compiling architecture Ar_FA of FA
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_F.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA_F
+# -- Compiling architecture ALU_UA_F of ALU_UA_F
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU
+# -- Compiling architecture ALU of ALU
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UL.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UL
+# -- Compiling architecture ALU_UL of ALU_UL
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Shifter.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Shifter
+# -- Compiling architecture Shifter of Shifter
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UF.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UF
+# -- Compiling architecture UF of UF
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_Contador_(PC).vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity PC
+# -- Compiling architecture PC of PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sumador_PC
+# -- Compiling architecture Sumador_PC of Sumador_PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath
+# -- Compiling architecture Datapath of Datapath
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Comparador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Comparador
+# -- Compiling architecture Comparador of Comparador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FlagRegisterUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FlagRegisterUnit
+# -- Compiling architecture Behavioral of FlagRegisterUnit
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_banderas.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_banderas
+# -- Compiling architecture Registro_banderas of Registro_banderas
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_2_a_4.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_2_a_4
+# -- Compiling architecture Deco_2_a_4 of Deco_2_a_4
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Secuenciador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Secuenciador
+# -- Compiling architecture Secuenciador of Secuenciador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Demux_1a8
+# -- Compiling architecture Demux_1a8 of Demux_1a8
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Demux_1a8_8bits
+# -- Compiling architecture Demux_1a8_8bits of Demux_1a8_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256R.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Datos_256R
+# -- Compiling architecture Mem_Datos_256R of Mem_Datos_256R
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroIR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegistroIR
+# -- Compiling architecture RegistroIR of RegistroIR
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroCW.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegistroCW
+# -- Compiling architecture RegistroCW of RegistroCW
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux_32_a_1_21Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_32_a_1_21Bits
+# -- Compiling architecture Mux_32_a_1_21Bits of Mux_32_a_1_21Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_21_Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_21_Bits
+# -- Compiling architecture Registro_21_Bits of Registro_21_Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_b
+# -- Compiling architecture AND_b of AND_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_8bits
+# -- Compiling architecture AND_8bits of AND_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NAND_b
+# -- Compiling architecture NAND_b of NAND_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NAND_8bits
+# -- Compiling architecture NAND_8bits of NAND_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOR_b
+# -- Compiling architecture NOR_b of NOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOR_8bits
+# -- Compiling architecture NOR_8bits of NOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_A
+# -- Compiling architecture NOT_A of NOT_A
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_A_8bits
+# -- Compiling architecture NOT_A_8bits of NOT_A_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_B
+# -- Compiling architecture NOT_B of NOT_B
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_B_8bits
+# -- Compiling architecture NOT_B_8bits of NOT_B_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NXOR_b
+# -- Compiling architecture NXOR_b of NXOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NXOR_8bits
+# -- Compiling architecture NXOR_8bits of NXOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_b
+# -- Compiling architecture OR_b of OR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_8bits
+# -- Compiling architecture OR_8bits of OR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity XOR_b
+# -- Compiling architecture XOR_b of XOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity XOR_8bits
+# -- Compiling architecture XOR_8bits of XOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath_PC
+# -- Compiling architecture Datapath_PC of Datapath_PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Procesador
+# -- Compiling architecture Procesador of Procesador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_3_a_8.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_3_a_8
+# -- Compiling architecture Deco_3_a_8 of Deco_3_a_8
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Complete.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UR_Complete
+# -- Compiling architecture UR_Complete of UR_Complete
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Entrada.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UR_In
+# -- Compiling architecture UR_In of UR_In
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador_Test.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Procesador_Test
+# -- Compiling architecture Procesador_Test of Procesador_Test
+# 
+# 
+# 61 compiles, 0 failed with no errors.
+quit -sim
+# End time: 23:42:01 on Apr 28,2025, Elapsed time: 0:10:15
+# Errors: 0, Warnings: 5
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+vsim -gui Procesador.procesador_test
+# vsim -gui Procesador.procesador_test 
+# Start time: 23:42:14 on Apr 28,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Procesador.procesador_test(procesador_test)
+# Loading Procesador.procesador(procesador)
+# Loading Procesador.secuenciador(secuenciador)
+# Loading Procesador.ffd(ar_ffd)
+# Loading Procesador.deco_3_a_8(deco_3_a_8)
+# Loading Procesador.datapath_pc(datapath_pc)
+# Loading Procesador.mem_codigos(mem_codigos)
+# Loading Procesador.deco_5_a_32(deco_5_a_32)
+# Loading Procesador.and_b(and_b)
+# Loading Procesador.registro_21_bits(registro_21_bits)
+# Loading Procesador.ffdw(ffdw)
+# Loading Procesador.mux_32_a_1_21bits(mux_32_a_1_21bits)
+# Loading Procesador.mux32_a_1(mux32_a_1)
+# Loading Procesador.registroir(registroir)
+# Loading Procesador.registrocw(registrocw)
+# Loading Procesador.pc(pc)
+# Loading Procesador.mux2a18bits(ar_mux2a18bits)
+# Loading Procesador.mux2a1(ar_mux2a1)
+# Loading Procesador.sumador_pc(sumador_pc)
+# Loading Procesador.fa(ar_fa)
+# Loading Procesador.registro_8_bits(registro_8_bits)
+# Loading Procesador.datapath(datapath)
+# Loading Procesador.mem_datos_256r(mem_datos_256r)
+# Loading Procesador.demux_1a8_8bits(demux_1a8_8bits)
+# Loading Procesador.demux_1a8(demux_1a8)
+# Loading Procesador.mem_datos(mem_datos)
+# Loading Procesador.mux_32_a_18bits(mux_32_a_18bits)
+# Loading Procesador.mux8a18bits(mux8a18bits)
+# Loading Procesador.mux8a1(mux8a1)
+# Loading Procesador.ur_complete(ur_complete)
+# Loading Procesador.ur_in(ur_in)
+# Loading Procesador.uf(uf)
+# Loading Procesador.alu(alu)
+# Loading Procesador.alu_ua_f(alu_ua_f)
+# Loading Procesador.alu_ua_8bits(alu_ua_8bits)
+# Loading Procesador.alu_ua(alu_ua)
+# Loading Procesador.sumador8bits(ar_sumador8bits)
+# Loading Procesador.alu_ul(alu_ul)
+# Loading Procesador.and_8bits(and_8bits)
+# Loading Procesador.or_8bits(or_8bits)
+# Loading Procesador.or_b(or_b)
+# Loading Procesador.not_a_8bits(not_a_8bits)
+# Loading Procesador.not_a(not_a)
+# Loading Procesador.xor_8bits(xor_8bits)
+# Loading Procesador.xor_b(xor_b)
+# Loading Procesador.nor_8bits(nor_8bits)
+# Loading Procesador.nor_b(nor_b)
+# Loading Procesador.nand_8bits(nand_8bits)
+# Loading Procesador.nand_b(nand_b)
+# Loading Procesador.nxor_8bits(nxor_8bits)
+# Loading Procesador.nxor_b(nxor_b)
+# Loading Procesador.not_b_8bits(not_b_8bits)
+# Loading Procesador.not_b(not_b)
+# Loading Procesador.shifter(shifter)
+# Loading Procesador.mux4a1(ar_mux4a1)
+# Loading Procesador.registro_banderas(registro_banderas)
+# Loading Procesador.salto_valido(salto_valido)
+# ** Warning: Design size of 77415 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+add wave -position insertpoint sim:/procesador_test/*
+run
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97822 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97822 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_5_32.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_5_a_32
+# -- Compiling architecture Deco_5_a_32 of Deco_5_a_32
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFD.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FFD
+# -- Compiling architecture Ar_FFD of FFD
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFDw.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FFDw
+# -- Compiling architecture FFDw of FFDw
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Datos
+# -- Compiling architecture Mem_Datos of Mem_Datos
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux32_a_1
+# -- Compiling architecture Mux32_a_1 of Mux32_a_1
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_32_a_18Bits
+# -- Compiling architecture Mux_32_a_18Bits of Mux_32_a_18Bits
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro8Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_8_Bits
+# -- Compiling architecture Registro_8_Bits of Registro_8_Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA
+# -- Compiling architecture ALU_UA of ALU_UA
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA_8bits
+# -- Compiling architecture ALU_UA_8bits of ALU_UA_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2a1
+# -- Compiling architecture Ar_Mux2a1 of Mux2a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2a18Bits
+# -- Compiling architecture Ar_Mux2a18Bits of Mux2a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4a1
+# -- Compiling architecture Ar_Mux4a1 of Mux4a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a18Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4a18Bits
+# -- Compiling architecture Ar_Mux4a18Bits of Mux4a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8a1
+# -- Compiling architecture Mux8a1 of Mux8a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8a18Bits
+# -- Compiling architecture Mux8a18Bits of Mux8a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Salto_Valido.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Salto_Valido
+# -- Compiling architecture Salto_Valido of Salto_Valido
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sumador8Bits
+# -- Compiling architecture Ar_Sumador8Bits of Sumador8Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FA.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FA
+# -- Compiling architecture Ar_FA of FA
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_F.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA_F
+# -- Compiling architecture ALU_UA_F of ALU_UA_F
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU
+# -- Compiling architecture ALU of ALU
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UL.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UL
+# -- Compiling architecture ALU_UL of ALU_UL
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Shifter.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Shifter
+# -- Compiling architecture Shifter of Shifter
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UF.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UF
+# -- Compiling architecture UF of UF
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_Contador_(PC).vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity PC
+# -- Compiling architecture PC of PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sumador_PC
+# -- Compiling architecture Sumador_PC of Sumador_PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath
+# -- Compiling architecture Datapath of Datapath
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Comparador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Comparador
+# -- Compiling architecture Comparador of Comparador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FlagRegisterUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FlagRegisterUnit
+# -- Compiling architecture Behavioral of FlagRegisterUnit
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_banderas.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_banderas
+# -- Compiling architecture Registro_banderas of Registro_banderas
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_2_a_4.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_2_a_4
+# -- Compiling architecture Deco_2_a_4 of Deco_2_a_4
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Secuenciador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Secuenciador
+# -- Compiling architecture Secuenciador of Secuenciador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Demux_1a8
+# -- Compiling architecture Demux_1a8 of Demux_1a8
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Demux_1a8_8bits
+# -- Compiling architecture Demux_1a8_8bits of Demux_1a8_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256R.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Datos_256R
+# -- Compiling architecture Mem_Datos_256R of Mem_Datos_256R
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroIR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegistroIR
+# -- Compiling architecture RegistroIR of RegistroIR
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroCW.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegistroCW
+# -- Compiling architecture RegistroCW of RegistroCW
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux_32_a_1_21Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_32_a_1_21Bits
+# -- Compiling architecture Mux_32_a_1_21Bits of Mux_32_a_1_21Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_21_Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_21_Bits
+# -- Compiling architecture Registro_21_Bits of Registro_21_Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_b
+# -- Compiling architecture AND_b of AND_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_8bits
+# -- Compiling architecture AND_8bits of AND_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NAND_b
+# -- Compiling architecture NAND_b of NAND_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NAND_8bits
+# -- Compiling architecture NAND_8bits of NAND_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOR_b
+# -- Compiling architecture NOR_b of NOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOR_8bits
+# -- Compiling architecture NOR_8bits of NOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_A
+# -- Compiling architecture NOT_A of NOT_A
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_A_8bits
+# -- Compiling architecture NOT_A_8bits of NOT_A_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_B
+# -- Compiling architecture NOT_B of NOT_B
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_B_8bits
+# -- Compiling architecture NOT_B_8bits of NOT_B_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NXOR_b
+# -- Compiling architecture NXOR_b of NXOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NXOR_8bits
+# -- Compiling architecture NXOR_8bits of NXOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_b
+# -- Compiling architecture OR_b of OR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_8bits
+# -- Compiling architecture OR_8bits of OR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity XOR_b
+# -- Compiling architecture XOR_b of XOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity XOR_8bits
+# -- Compiling architecture XOR_8bits of XOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath_PC
+# -- Compiling architecture Datapath_PC of Datapath_PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Procesador
+# -- Compiling architecture Procesador of Procesador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_3_a_8.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_3_a_8
+# -- Compiling architecture Deco_3_a_8 of Deco_3_a_8
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Complete.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UR_Complete
+# -- Compiling architecture UR_Complete of UR_Complete
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Entrada.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UR_In
+# -- Compiling architecture UR_In of UR_In
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador_Test.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Procesador_Test
+# -- Compiling architecture Procesador_Test of Procesador_Test
+# 
+# 
+# 61 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.procesador_test(procesador_test)
+# Loading Procesador.procesador(procesador)
+# Loading Procesador.secuenciador(secuenciador)
+# Loading Procesador.ffd(ar_ffd)
+# Loading Procesador.deco_3_a_8(deco_3_a_8)
+# Loading Procesador.datapath_pc(datapath_pc)
+# Loading Procesador.mem_codigos(mem_codigos)
+# Loading Procesador.deco_5_a_32(deco_5_a_32)
+# Loading Procesador.and_b(and_b)
+# Loading Procesador.registro_21_bits(registro_21_bits)
+# Loading Procesador.ffdw(ffdw)
+# Loading Procesador.mux_32_a_1_21bits(mux_32_a_1_21bits)
+# Loading Procesador.mux32_a_1(mux32_a_1)
+# Loading Procesador.registroir(registroir)
+# Loading Procesador.registrocw(registrocw)
+# Loading Procesador.pc(pc)
+# Loading Procesador.mux2a18bits(ar_mux2a18bits)
+# Loading Procesador.mux2a1(ar_mux2a1)
+# Loading Procesador.sumador_pc(sumador_pc)
+# Loading Procesador.fa(ar_fa)
+# Loading Procesador.registro_8_bits(registro_8_bits)
+# Loading Procesador.datapath(datapath)
+# Loading Procesador.mem_datos_256r(mem_datos_256r)
+# Loading Procesador.demux_1a8_8bits(demux_1a8_8bits)
+# Loading Procesador.demux_1a8(demux_1a8)
+# Loading Procesador.mem_datos(mem_datos)
+# Loading Procesador.mux_32_a_18bits(mux_32_a_18bits)
+# Loading Procesador.mux8a18bits(mux8a18bits)
+# Loading Procesador.mux8a1(mux8a1)
+# Loading Procesador.ur_complete(ur_complete)
+# Loading Procesador.ur_in(ur_in)
+# Loading Procesador.uf(uf)
+# Loading Procesador.alu(alu)
+# Loading Procesador.alu_ua_f(alu_ua_f)
+# Loading Procesador.alu_ua_8bits(alu_ua_8bits)
+# Loading Procesador.alu_ua(alu_ua)
+# Loading Procesador.sumador8bits(ar_sumador8bits)
+# Loading Procesador.alu_ul(alu_ul)
+# Loading Procesador.and_8bits(and_8bits)
+# Loading Procesador.or_8bits(or_8bits)
+# Loading Procesador.or_b(or_b)
+# Loading Procesador.not_a_8bits(not_a_8bits)
+# Loading Procesador.not_a(not_a)
+# Loading Procesador.xor_8bits(xor_8bits)
+# Loading Procesador.xor_b(xor_b)
+# Loading Procesador.nor_8bits(nor_8bits)
+# Loading Procesador.nor_b(nor_b)
+# Loading Procesador.nand_8bits(nand_8bits)
+# Loading Procesador.nand_b(nand_b)
+# Loading Procesador.nxor_8bits(nxor_8bits)
+# Loading Procesador.nxor_b(nxor_b)
+# Loading Procesador.not_b_8bits(not_b_8bits)
+# Loading Procesador.not_b(not_b)
+# Loading Procesador.shifter(shifter)
+# Loading Procesador.mux4a1(ar_mux4a1)
+# Loading Procesador.registro_banderas(registro_banderas)
+# Loading Procesador.salto_valido(salto_valido)
+# ** Warning: Design size of 77411 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: Design size of 91301 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# ** Error (suppressible): C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd(122): (vcom-1272) Length of expected is 21; length of actual is 19.
+# ** Note: C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd(263): VHDL Compiler exiting
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: Design size of 91301 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# ** Error (suppressible): C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd(122): (vcom-1272) Length of expected is 21; length of actual is 19.
+# ** Note: C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd(263): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_5_32.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_5_a_32
+# -- Compiling architecture Deco_5_a_32 of Deco_5_a_32
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFD.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FFD
+# -- Compiling architecture Ar_FFD of FFD
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFDw.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FFDw
+# -- Compiling architecture FFDw of FFDw
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Datos
+# -- Compiling architecture Mem_Datos of Mem_Datos
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux32_a_1
+# -- Compiling architecture Mux32_a_1 of Mux32_a_1
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_32_a_18Bits
+# -- Compiling architecture Mux_32_a_18Bits of Mux_32_a_18Bits
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro8Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_8_Bits
+# -- Compiling architecture Registro_8_Bits of Registro_8_Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA
+# -- Compiling architecture ALU_UA of ALU_UA
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA_8bits
+# -- Compiling architecture ALU_UA_8bits of ALU_UA_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2a1
+# -- Compiling architecture Ar_Mux2a1 of Mux2a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2a18Bits
+# -- Compiling architecture Ar_Mux2a18Bits of Mux2a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4a1
+# -- Compiling architecture Ar_Mux4a1 of Mux4a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a18Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4a18Bits
+# -- Compiling architecture Ar_Mux4a18Bits of Mux4a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8a1
+# -- Compiling architecture Mux8a1 of Mux8a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8a18Bits
+# -- Compiling architecture Mux8a18Bits of Mux8a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Salto_Valido.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Salto_Valido
+# -- Compiling architecture Salto_Valido of Salto_Valido
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sumador8Bits
+# -- Compiling architecture Ar_Sumador8Bits of Sumador8Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FA.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FA
+# -- Compiling architecture Ar_FA of FA
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_F.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA_F
+# -- Compiling architecture ALU_UA_F of ALU_UA_F
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU
+# -- Compiling architecture ALU of ALU
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UL.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UL
+# -- Compiling architecture ALU_UL of ALU_UL
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Shifter.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Shifter
+# -- Compiling architecture Shifter of Shifter
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UF.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UF
+# -- Compiling architecture UF of UF
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_Contador_(PC).vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity PC
+# -- Compiling architecture PC of PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sumador_PC
+# -- Compiling architecture Sumador_PC of Sumador_PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath
+# -- Compiling architecture Datapath of Datapath
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Comparador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Comparador
+# -- Compiling architecture Comparador of Comparador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FlagRegisterUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FlagRegisterUnit
+# -- Compiling architecture Behavioral of FlagRegisterUnit
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_banderas.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_banderas
+# -- Compiling architecture Registro_banderas of Registro_banderas
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_2_a_4.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_2_a_4
+# -- Compiling architecture Deco_2_a_4 of Deco_2_a_4
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Secuenciador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Secuenciador
+# -- Compiling architecture Secuenciador of Secuenciador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Demux_1a8
+# -- Compiling architecture Demux_1a8 of Demux_1a8
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Demux_1a8_8bits
+# -- Compiling architecture Demux_1a8_8bits of Demux_1a8_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256R.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Datos_256R
+# -- Compiling architecture Mem_Datos_256R of Mem_Datos_256R
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroIR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegistroIR
+# -- Compiling architecture RegistroIR of RegistroIR
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroCW.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegistroCW
+# -- Compiling architecture RegistroCW of RegistroCW
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux_32_a_1_21Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_32_a_1_21Bits
+# -- Compiling architecture Mux_32_a_1_21Bits of Mux_32_a_1_21Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_21_Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_21_Bits
+# -- Compiling architecture Registro_21_Bits of Registro_21_Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_b
+# -- Compiling architecture AND_b of AND_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_8bits
+# -- Compiling architecture AND_8bits of AND_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NAND_b
+# -- Compiling architecture NAND_b of NAND_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NAND_8bits
+# -- Compiling architecture NAND_8bits of NAND_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOR_b
+# -- Compiling architecture NOR_b of NOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOR_8bits
+# -- Compiling architecture NOR_8bits of NOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_A
+# -- Compiling architecture NOT_A of NOT_A
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_A_8bits
+# -- Compiling architecture NOT_A_8bits of NOT_A_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_B
+# -- Compiling architecture NOT_B of NOT_B
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_B_8bits
+# -- Compiling architecture NOT_B_8bits of NOT_B_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NXOR_b
+# -- Compiling architecture NXOR_b of NXOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NXOR_8bits
+# -- Compiling architecture NXOR_8bits of NXOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_b
+# -- Compiling architecture OR_b of OR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_8bits
+# -- Compiling architecture OR_8bits of OR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity XOR_b
+# -- Compiling architecture XOR_b of XOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity XOR_8bits
+# -- Compiling architecture XOR_8bits of XOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath_PC
+# -- Compiling architecture Datapath_PC of Datapath_PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Procesador
+# -- Compiling architecture Procesador of Procesador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_3_a_8.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_3_a_8
+# -- Compiling architecture Deco_3_a_8 of Deco_3_a_8
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Complete.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UR_Complete
+# -- Compiling architecture UR_Complete of UR_Complete
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Entrada.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UR_In
+# -- Compiling architecture UR_In of UR_In
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador_Test.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Procesador_Test
+# -- Compiling architecture Procesador_Test of Procesador_Test
+# 
+# 
+# 61 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.procesador_test(procesador_test)
+# Loading Procesador.procesador(procesador)
+# Loading Procesador.secuenciador(secuenciador)
+# Loading Procesador.ffd(ar_ffd)
+# Loading Procesador.deco_3_a_8(deco_3_a_8)
+# Loading Procesador.datapath_pc(datapath_pc)
+# Loading Procesador.mem_codigos(mem_codigos)
+# Loading Procesador.deco_5_a_32(deco_5_a_32)
+# Loading Procesador.and_b(and_b)
+# Loading Procesador.registro_21_bits(registro_21_bits)
+# Loading Procesador.ffdw(ffdw)
+# Loading Procesador.mux_32_a_1_21bits(mux_32_a_1_21bits)
+# Loading Procesador.mux32_a_1(mux32_a_1)
+# Loading Procesador.registroir(registroir)
+# Loading Procesador.registrocw(registrocw)
+# Loading Procesador.pc(pc)
+# Loading Procesador.mux2a18bits(ar_mux2a18bits)
+# Loading Procesador.mux2a1(ar_mux2a1)
+# Loading Procesador.sumador_pc(sumador_pc)
+# Loading Procesador.fa(ar_fa)
+# Loading Procesador.registro_8_bits(registro_8_bits)
+# Loading Procesador.datapath(datapath)
+# Loading Procesador.mem_datos_256r(mem_datos_256r)
+# Loading Procesador.demux_1a8_8bits(demux_1a8_8bits)
+# Loading Procesador.demux_1a8(demux_1a8)
+# Loading Procesador.mem_datos(mem_datos)
+# Loading Procesador.mux_32_a_18bits(mux_32_a_18bits)
+# Loading Procesador.mux8a18bits(mux8a18bits)
+# Loading Procesador.mux8a1(mux8a1)
+# Loading Procesador.ur_complete(ur_complete)
+# Loading Procesador.ur_in(ur_in)
+# Loading Procesador.uf(uf)
+# Loading Procesador.alu(alu)
+# Loading Procesador.alu_ua_f(alu_ua_f)
+# Loading Procesador.alu_ua_8bits(alu_ua_8bits)
+# Loading Procesador.alu_ua(alu_ua)
+# Loading Procesador.sumador8bits(ar_sumador8bits)
+# Loading Procesador.alu_ul(alu_ul)
+# Loading Procesador.and_8bits(and_8bits)
+# Loading Procesador.or_8bits(or_8bits)
+# Loading Procesador.or_b(or_b)
+# Loading Procesador.not_a_8bits(not_a_8bits)
+# Loading Procesador.not_a(not_a)
+# Loading Procesador.xor_8bits(xor_8bits)
+# Loading Procesador.xor_b(xor_b)
+# Loading Procesador.nor_8bits(nor_8bits)
+# Loading Procesador.nor_b(nor_b)
+# Loading Procesador.nand_8bits(nand_8bits)
+# Loading Procesador.nand_b(nand_b)
+# Loading Procesador.nxor_8bits(nxor_8bits)
+# Loading Procesador.nxor_b(nxor_b)
+# Loading Procesador.not_b_8bits(not_b_8bits)
+# Loading Procesador.not_b(not_b)
+# Loading Procesador.shifter(shifter)
+# Loading Procesador.mux4a1(ar_mux4a1)
+# Loading Procesador.registro_banderas(registro_banderas)
+# Loading Procesador.salto_valido(salto_valido)
+# ** Warning: Design size of 77411 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_5_32.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_5_a_32
+# -- Compiling architecture Deco_5_a_32 of Deco_5_a_32
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFD.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FFD
+# -- Compiling architecture Ar_FFD of FFD
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FFDw.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FFDw
+# -- Compiling architecture FFDw of FFDw
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Datos
+# -- Compiling architecture Mem_Datos of Mem_Datos
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux32_a_1
+# -- Compiling architecture Mux32_a_1 of Mux32_a_1
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux32_a_18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_32_a_18Bits
+# -- Compiling architecture Mux_32_a_18Bits of Mux_32_a_18Bits
+# 
+# 
+# vcom -work Procesador -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro8Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_8_Bits
+# -- Compiling architecture Registro_8_Bits of Registro_8_Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA
+# -- Compiling architecture ALU_UA of ALU_UA
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA_8bits
+# -- Compiling architecture ALU_UA_8bits of ALU_UA_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2a1
+# -- Compiling architecture Ar_Mux2a1 of Mux2a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux2a18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2a18Bits
+# -- Compiling architecture Ar_Mux2a18Bits of Mux2a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4a1
+# -- Compiling architecture Ar_Mux4a1 of Mux4a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux4a18Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4a18Bits
+# -- Compiling architecture Ar_Mux4a18Bits of Mux4a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8a1
+# -- Compiling architecture Mux8a1 of Mux8a1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux8a18bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8a18Bits
+# -- Compiling architecture Mux8a18Bits of Mux8a18Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Salto_Valido.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Salto_Valido
+# -- Compiling architecture Salto_Valido of Salto_Valido
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sumador8Bits
+# -- Compiling architecture Ar_Sumador8Bits of Sumador8Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FA.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FA
+# -- Compiling architecture Ar_FA of FA
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UA_F.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UA_F
+# -- Compiling architecture ALU_UA_F of ALU_UA_F
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU
+# -- Compiling architecture ALU of ALU
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/ALU_UL.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU_UL
+# -- Compiling architecture ALU_UL of ALU_UL
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Shifter.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Shifter
+# -- Compiling architecture Shifter of Shifter
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UF.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UF
+# -- Compiling architecture UF of UF
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_Contador_(PC).vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity PC
+# -- Compiling architecture PC of PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Sumador8Bits_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sumador_PC
+# -- Compiling architecture Sumador_PC of Sumador_PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath
+# -- Compiling architecture Datapath of Datapath
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Comparador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Comparador
+# -- Compiling architecture Comparador of Comparador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/FlagRegisterUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FlagRegisterUnit
+# -- Compiling architecture Behavioral of FlagRegisterUnit
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_banderas.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_banderas
+# -- Compiling architecture Registro_banderas of Registro_banderas
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_2_a_4.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_2_a_4
+# -- Compiling architecture Deco_2_a_4 of Deco_2_a_4
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Secuenciador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Secuenciador
+# -- Compiling architecture Secuenciador of Secuenciador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Demux_1a8
+# -- Compiling architecture Demux_1a8 of Demux_1a8
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Demux_1a8_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Demux_1a8_8bits
+# -- Compiling architecture Demux_1a8_8bits of Demux_1a8_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Datos_256R.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Datos_256R
+# -- Compiling architecture Mem_Datos_256R of Mem_Datos_256R
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroIR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegistroIR
+# -- Compiling architecture RegistroIR of RegistroIR
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/RegistroCW.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegistroCW
+# -- Compiling architecture RegistroCW of RegistroCW
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mux_32_a_1_21Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_32_a_1_21Bits
+# -- Compiling architecture Mux_32_a_1_21Bits of Mux_32_a_1_21Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Registro_21_Bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Registro_21_Bits
+# -- Compiling architecture Registro_21_Bits of Registro_21_Bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_b
+# -- Compiling architecture AND_b of AND_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/AND_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_8bits
+# -- Compiling architecture AND_8bits of AND_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NAND_b
+# -- Compiling architecture NAND_b of NAND_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NAND_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NAND_8bits
+# -- Compiling architecture NAND_8bits of NAND_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOR_b
+# -- Compiling architecture NOR_b of NOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOR_8bits
+# -- Compiling architecture NOR_8bits of NOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_A
+# -- Compiling architecture NOT_A of NOT_A
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_A_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_A_8bits
+# -- Compiling architecture NOT_A_8bits of NOT_A_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_B
+# -- Compiling architecture NOT_B of NOT_B
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NOT_B_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_B_8bits
+# -- Compiling architecture NOT_B_8bits of NOT_B_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NXOR_b
+# -- Compiling architecture NXOR_b of NXOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/NXOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NXOR_8bits
+# -- Compiling architecture NXOR_8bits of NXOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_b
+# -- Compiling architecture OR_b of OR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/OR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_8bits
+# -- Compiling architecture OR_8bits of OR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity XOR_b
+# -- Compiling architecture XOR_b of XOR_b
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Compuertas/XOR_8bits.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity XOR_8bits
+# -- Compiling architecture XOR_8bits of XOR_8bits
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Datapath_PC.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Datapath_PC
+# -- Compiling architecture Datapath_PC of Datapath_PC
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Procesador
+# -- Compiling architecture Procesador of Procesador
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Deco_3_a_8.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Deco_3_a_8
+# -- Compiling architecture Deco_3_a_8 of Deco_3_a_8
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Complete.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UR_Complete
+# -- Compiling architecture UR_Complete of UR_Complete
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/UR_Entrada.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UR_In
+# -- Compiling architecture UR_In of UR_In
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Procesador_Test.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Procesador_Test
+# -- Compiling architecture Procesador_Test of Procesador_Test
+# 
+# 
+# 61 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.procesador_test(procesador_test)
+# Loading Procesador.procesador(procesador)
+# Loading Procesador.secuenciador(secuenciador)
+# Loading Procesador.ffd(ar_ffd)
+# Loading Procesador.deco_3_a_8(deco_3_a_8)
+# Loading Procesador.datapath_pc(datapath_pc)
+# Loading Procesador.mem_codigos(mem_codigos)
+# Loading Procesador.deco_5_a_32(deco_5_a_32)
+# Loading Procesador.and_b(and_b)
+# Loading Procesador.registro_21_bits(registro_21_bits)
+# Loading Procesador.ffdw(ffdw)
+# Loading Procesador.mux_32_a_1_21bits(mux_32_a_1_21bits)
+# Loading Procesador.mux32_a_1(mux32_a_1)
+# Loading Procesador.registroir(registroir)
+# Loading Procesador.registrocw(registrocw)
+# Loading Procesador.pc(pc)
+# Loading Procesador.mux2a18bits(ar_mux2a18bits)
+# Loading Procesador.mux2a1(ar_mux2a1)
+# Loading Procesador.sumador_pc(sumador_pc)
+# Loading Procesador.fa(ar_fa)
+# Loading Procesador.registro_8_bits(registro_8_bits)
+# Loading Procesador.datapath(datapath)
+# Loading Procesador.mem_datos_256r(mem_datos_256r)
+# Loading Procesador.demux_1a8_8bits(demux_1a8_8bits)
+# Loading Procesador.demux_1a8(demux_1a8)
+# Loading Procesador.mem_datos(mem_datos)
+# Loading Procesador.mux_32_a_18bits(mux_32_a_18bits)
+# Loading Procesador.mux8a18bits(mux8a18bits)
+# Loading Procesador.mux8a1(mux8a1)
+# Loading Procesador.ur_complete(ur_complete)
+# Loading Procesador.ur_in(ur_in)
+# Loading Procesador.uf(uf)
+# Loading Procesador.alu(alu)
+# Loading Procesador.alu_ua_f(alu_ua_f)
+# Loading Procesador.alu_ua_8bits(alu_ua_8bits)
+# Loading Procesador.alu_ua(alu_ua)
+# Loading Procesador.sumador8bits(ar_sumador8bits)
+# Loading Procesador.alu_ul(alu_ul)
+# Loading Procesador.and_8bits(and_8bits)
+# Loading Procesador.or_8bits(or_8bits)
+# Loading Procesador.or_b(or_b)
+# Loading Procesador.not_a_8bits(not_a_8bits)
+# Loading Procesador.not_a(not_a)
+# Loading Procesador.xor_8bits(xor_8bits)
+# Loading Procesador.xor_b(xor_b)
+# Loading Procesador.nor_8bits(nor_8bits)
+# Loading Procesador.nor_b(nor_b)
+# Loading Procesador.nand_8bits(nand_8bits)
+# Loading Procesador.nand_b(nand_b)
+# Loading Procesador.nxor_8bits(nxor_8bits)
+# Loading Procesador.nxor_b(nxor_b)
+# Loading Procesador.not_b_8bits(not_b_8bits)
+# Loading Procesador.not_b(not_b)
+# Loading Procesador.shifter(shifter)
+# Loading Procesador.mux4a1(ar_mux4a1)
+# Loading Procesador.registro_banderas(registro_banderas)
+# Loading Procesador.salto_valido(salto_valido)
+# ** Warning: Design size of 77411 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none C:/Users/Jonathan/Desktop/Arquitectura_Proyecto/Mem_Codigos.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mem_Codigos
+# -- Compiling architecture Mem_Codigos of Mem_Codigos
+# 
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Procesador.mem_codigos(mem_codigos)
+# ** Warning: Design size of 97818 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# End time: 01:00:11 on Apr 29,2025, Elapsed time: 1:17:57
+# Errors: 0, Warnings: 2

@@ -1,0 +1,184 @@
+v 4
+file . "Procesador_Test.vhd" "7baa88cb766d3092fb5f9445f39844e10e65fb21" "20250506161005.183":
+  entity procesador_test at 1( 0) + 0 on 515;
+  architecture procesador_test of procesador_test at 7( 98) + 0 on 516;
+file . "NOT_A.vhd" "78bfdcfdce9c2c463931ba29155a4ebc3e389ac4" "20250506155728.445":
+  entity not_a at 1( 0) + 0 on 501;
+  architecture not_a of not_a at 10( 126) + 0 on 502;
+file . "XOR.vhd" "cfcbbbdca3ee38395b14d35e2c6deca54b7c6ae3" "20250506155721.674":
+  entity xor_b at 1( 0) + 0 on 497;
+  architecture xor_b of xor_b at 10( 128) + 0 on 498;
+file . "OR.vhd" "80e868b65fd2bd75731fd8acecd2bd543c7a6a7d" "20250506155721.427":
+  entity or_b at 1( 0) + 0 on 493;
+  architecture or_b of or_b at 10( 126) + 0 on 494;
+file . "NXOR.vhd" "5aa9bb6ff834551eeff2009d43bcd4b43b615d7f" "20250506155721.138":
+  entity nxor_b at 1( 0) + 0 on 489;
+  architecture nxor_b of nxor_b at 10( 130) + 0 on 490;
+file . "NOT_B.vhd" "a3f7bfbefc005df5b358d745da4ea471091e1d46" "20250506155720.887":
+  entity not_b at 1( 0) + 0 on 485;
+  architecture not_b of not_b at 10( 126) + 0 on 486;
+file . "NOR_8bits.vhd" "c0eb41198ea08977b604029ec999ff83ebd1d22f" "20250506155720.362":
+  entity nor_8bits at 1( 0) + 0 on 481;
+  architecture nor_8bits of nor_8bits at 10( 178) + 0 on 482;
+file . "NAND_8bits.vhd" "a23eace7ae9c6a2a52b800edda0f4068fb4bb6b5" "20250506155720.098":
+  entity nand_8bits at 1( 0) + 0 on 477;
+  architecture nand_8bits of nand_8bits at 10( 180) + 0 on 478;
+file . "AND_8bits.vhd" "71af6712be94a5a27d5084b47ada9f7152aade40" "20250506155719.855":
+  entity and_8bits at 1( 0) + 0 on 473;
+  architecture and_8bits of and_8bits at 10( 178) + 0 on 474;
+file . "UF.vhd" "aaa1c9e291c4623f597a11e6da03f72338cee0c9" "20250506155719.555":
+  entity uf at 17( 1142) + 0 on 469;
+  architecture uf of uf at 29( 1406) + 0 on 470;
+file . "UR_Complete.vhd" "7b705f9ff65cc585b9c8f1a64bb43ec848c65eba" "20250506155719.231":
+  entity ur_complete at 12( 1117) + 0 on 465;
+  architecture ur_complete of ur_complete at 24( 1389) + 0 on 466;
+file . "Sumador8Bits_PC.vhd" "c3ca5c331b0987a886c04fdecbb87727acd6e15a" "20250506155718.911":
+  entity sumador_pc at 1( 0) + 0 on 461;
+  architecture sumador_pc of sumador_pc at 11( 226) + 0 on 462;
+file . "Secuenciador.vhd" "85edbc3cc747a42a4d892a53936a6f6b380cefe6" "20250506155718.557":
+  entity secuenciador at 4( 233) + 0 on 457;
+  architecture secuenciador of secuenciador at 16( 623) + 0 on 458;
+file . "RegistroIR.vhd" "c60e235ea6412bdc0318b185fc35656257502a2f" "20250506155718.245":
+  entity registroir at 9( 497) + 0 on 453;
+  architecture registroir of registroir at 31( 1269) + 0 on 454;
+file . "Registro8Bits.vhd" "537862a160a018a79db39e49b0fd9cdbed5d2656" "20250506155717.885":
+  entity registro_8_bits at 1( 0) + 0 on 449;
+  architecture registro_8_bits of registro_8_bits at 11( 213) + 0 on 450;
+file . "Registro_21_Bits.vhd" "6aaa9106c30833f80e214bf6461db05e42f24ae6" "20250506155717.387":
+  entity registro_21_bits at 1( 0) + 0 on 443;
+  architecture registro_21_bits of registro_21_bits at 11( 217) + 0 on 444;
+file . "Mux32_a_18bits.vhd" "5cd131a35d829b0ee694fcf743362125e7b5ab7c" "20250506155716.909":
+  entity mux_32_a_18bits at 1( 0) + 0 on 439;
+  architecture mux_32_a_18bits of mux_32_a_18bits at 14( 337) + 0 on 440;
+file . "Mux8a18bits.vhd" "bf03f89fc18a4f1109be01ccb498250057720ea1" "20250506155716.543":
+  entity mux8a18bits at 1( 0) + 0 on 435;
+  architecture mux8a18bits of mux8a18bits at 11( 240) + 0 on 436;
+file . "Mux4a18Bits.vhd" "c49c812f00dfe135a7873365f0820094c6283569" "20250506155716.253":
+  entity mux4a18bits at 1( 0) + 0 on 431;
+  architecture ar_mux4a18bits of mux4a18bits at 11( 228) + 0 on 432;
+file . "Mux2a18bits.vhd" "c96695b542a80a58cc6818c496cdcaa70b2e67c5" "20250506155715.963":
+  entity mux2a18bits at 1( 0) + 0 on 427;
+  architecture ar_mux2a18bits of mux2a18bits at 11( 202) + 0 on 428;
+file . "Mux_32_a_1_21Bits.vhd" "af77d4cb080430296eede1b4fa8c33749f973fc5" "20250506155715.391":
+  entity mux_32_a_1_21bits at 4( 158) + 0 on 423;
+  architecture mux_32_a_1_21bits of mux_32_a_1_21bits at 17( 501) + 0 on 424;
+file . "Mem_Datos_256R.vhd" "005b78fe616f4789cc94b5b61dada9d8977c12de" "20250506155714.791":
+  entity mem_datos_256r at 7( 562) + 0 on 419;
+  architecture mem_datos_256r of mem_datos_256r at 19( 843) + 0 on 420;
+file . "FlagRegisterUnit.vhd" "6db8ce982bd024d912e67c163b9320e14500ea13" "20250506155714.228":
+  entity flagregisterunit at 1( 0) + 0 on 415;
+  architecture behavioral of flagregisterunit at 13( 405) + 0 on 416;
+file . "FFD.vhd" "d05aed730a609beeae04afc6340bec6f69a1bd8a" "20250506155713.993":
+  entity ffd at 1( 0) + 0 on 411;
+  architecture ar_ffd of ffd at 10( 128) + 0 on 412;
+file . "Demux_1a8.vhd" "cdf7390986d4ad0c51a98071cc8a83d902846ecd" "20250506155713.695":
+  entity demux_1a8 at 1( 0) + 0 on 407;
+  architecture demux_1a8 of demux_1a8 at 11( 201) + 0 on 408;
+file . "Deco_5_32.vhd" "eb503aa6f2027a7d570cb88fa645fef07ca317dd" "20250506155713.247":
+  entity deco_5_a_32 at 4( 187) + 0 on 403;
+  architecture deco_5_a_32 of deco_5_a_32 at 16( 454) + 0 on 404;
+file . "Deco_2_a_4.vhd" "0df8166705b683d717a7145a521ba1795aac9bcb" "20250506155712.961":
+  entity deco_2_a_4 at 1( 0) + 0 on 399;
+  architecture deco_2_a_4 of deco_2_a_4 at 10( 167) + 0 on 400;
+file . "Datapath_PC.vhd" "b37c4bcbf91397a25a846ec844a13e1c3451538d" "20250506155712.496":
+  entity datapath_pc at 18( 1767) + 0 on 395;
+  architecture datapath_pc of datapath_pc at 41( 2671) + 0 on 396;
+file . "ALU.vhd" "0771b49b907ebe6597f63db684f5451b199b9efe" "20250506155712.161":
+  entity alu at 30( 1399) + 0 on 391;
+  architecture alu of alu at 42( 1680) + 0 on 392;
+file . "ALU_UA.vhd" "3bcf68ce747ee4b09fa95d6dcc41abd7051dbea2" "20250506155711.813":
+  entity alu_ua at 3( 87) + 0 on 387;
+  architecture alu_ua of alu_ua at 14( 281) + 0 on 388;
+file . "ALU_UA_8BITS.vhd" "58c41844864cce3ae6d3ae1c6dafa102d1ebb78c" "20250506155711.282":
+  entity alu_ua_8bits at 3( 80) + 0 on 383;
+  architecture alu_ua_8bits of alu_ua_8bits at 14( 324) + 0 on 384;
+file . "ALU_UA_F.vhd" "91a976d934d8ac1ec452fabec80a20560cda45ca" "20250506155711.594":
+  entity alu_ua_f at 7( 473) + 0 on 385;
+  architecture alu_ua_f of alu_ua_f at 22( 810) + 0 on 386;
+file . "ALU_UL.vhd" "5d735a1a60447c34f295af8722ed8c73b88987c0" "20250506155711.970":
+  entity alu_ul at 4( 306) + 0 on 389;
+  architecture alu_ul of alu_ul at 15( 545) + 0 on 390;
+file . "Comparador.vhd" "e17c3e14403511f837c2fe436fd99879d22471e5" "20250506155712.357":
+  entity comparador at 1( 0) + 0 on 393;
+  architecture comparador of comparador at 10( 160) + 0 on 394;
+file . "Datapath.vhd" "07187f0ff9e31a9d8cc4eeb1de3fee6e2075aaa8" "20250506155712.765":
+  entity datapath at 7( 514) + 0 on 397;
+  architecture datapath of datapath at 22( 1146) + 0 on 398;
+file . "Deco_3_a_8.vhd" "d274035b5cc4de0e5aa2efd6283288515b9d0abc" "20250506155713.096":
+  entity deco_3_a_8 at 1( 0) + 0 on 401;
+  architecture deco_3_a_8 of deco_3_a_8 at 10( 179) + 0 on 402;
+file . "Demux_1a8_8bits.vhd" "c6feedc948fe61d7d083f70eb9d4910f4f7cacb3" "20250506155713.505":
+  entity demux_1a8_8bits at 1( 0) + 0 on 405;
+  architecture demux_1a8_8bits of demux_1a8_8bits at 11( 253) + 0 on 406;
+file . "FA.vhd" "4d05f1255e37fab33c7fb472ff995b77cb9b4205" "20250506155713.847":
+  entity fa at 1( 0) + 0 on 409;
+  architecture ar_fa of fa at 9( 129) + 0 on 410;
+file . "FFDw.vhd" "e627113e5bf65b1ef2087ecc688a2b6b4ba8256c" "20250506155714.108":
+  entity ffdw at 1( 0) + 0 on 413;
+  architecture ffdw of ffdw at 10( 134) + 0 on 414;
+file . "Mem_Codigos.vhd" "b172268775fd5fb5741cc7f9b1097e09c033ade2" "20250506161002.598":
+  entity mem_codigos at 33( 1716) + 0 on 513;
+  architecture mem_codigos of mem_codigos at 43( 1948) + 0 on 514;
+file . "Mem_Datos.vhd" "087e72b544cf5a11333c7bf5a735050a31b5139d" "20250506155715.058":
+  entity mem_datos at 12( 889) + 0 on 421;
+  architecture mem_datos of mem_datos at 24( 1234) + 0 on 422;
+file . "Mux2a1.vhd" "f92cb543e177df4a4708b32c98e5d2f527ca308f" "20250506155715.805":
+  entity mux2a1 at 5( 99) + 0 on 425;
+  architecture ar_mux2a1 of mux2a1 at 14( 235) + 0 on 426;
+file . "Mux4a1.vhd" "770ab91442f5a363b2ea66a3653495a5507ec34a" "20250506155716.125":
+  entity mux4a1 at 1( 0) + 0 on 429;
+  architecture ar_mux4a1 of mux4a1 at 11( 175) + 0 on 430;
+file . "Mux8a1.vhd" "f81001e817a300df63964992c02a69361e4f15aa" "20250506155716.396":
+  entity mux8a1 at 1( 0) + 0 on 433;
+  architecture mux8a1 of mux8a1 at 11( 187) + 0 on 434;
+file . "Mux32_a_1.vhd" "ce39fcffa669f08e113b5ca34fbd5ed713f554c6" "20250506155716.727":
+  entity mux32_a_1 at 1( 0) + 0 on 437;
+  architecture mux32_a_1 of mux32_a_1 at 14( 285) + 0 on 438;
+file . "Procesador.vhd" "c8008137199202c3f147f7e72ca8de009dd853f6" "20250506155717.176":
+  entity procesador at 1( 0) + 0 on 441;
+  architecture procesador of procesador at 19( 582) + 0 on 442;
+file . "Registro_banderas.vhd" "1c61b1110d9e8bcb44a1c0c26b9f0eb2a76489b2" "20250506155717.556":
+  entity registro_banderas at 1( 0) + 0 on 445;
+  architecture registro_banderas of registro_banderas at 12( 242) + 0 on 446;
+file . "RegistroCW.vhd" "bd2de8aa15cbc328a98d9e4152baf18fb0f15e7e" "20250506155718.034":
+  entity registrocw at 7( 241) + 0 on 451;
+  architecture registrocw of registrocw at 37( 1506) + 0 on 452;
+file . "Salto_Valido.vhd" "caaa7c87cf6724b49e5210c62523ddd29d7e9169" "20250506155718.414":
+  entity salto_valido at 4( 172) + 0 on 455;
+  architecture salto_valido of salto_valido at 14( 369) + 0 on 456;
+file . "Shifter.vhd" "c7e5265fd301f6369716cae495188e8df80a4c11" "20250506155718.735":
+  entity shifter at 8( 297) + 0 on 459;
+  architecture shifter of shifter at 19( 532) + 0 on 460;
+file . "Sumador8Bits.vhd" "bf2530c9d858c0bfe1fe17c3e546662241166621" "20250506155719.061":
+  entity sumador8bits at 1( 0) + 0 on 463;
+  architecture ar_sumador8bits of sumador8bits at 15( 285) + 0 on 464;
+file . "UR_Entrada.vhd" "7ecaa86230ba2dae1b8bef3cbf27035bdc404a51" "20250506155719.390":
+  entity ur_in at 7( 771) + 0 on 467;
+  architecture ur_in of ur_in at 19( 1061) + 0 on 468;
+file . "AND.vhd" "abba381244a2df62dc653dacfd498e669f59ea0b" "20250506155719.717":
+  entity and_b at 1( 0) + 0 on 471;
+  architecture and_b of and_b at 10( 128) + 0 on 472;
+file . "NAND.vhd" "f65d8634bb067831f7fa0b437aa751c614915ead" "20250506155719.987":
+  entity nand_b at 1( 0) + 0 on 475;
+  architecture nand_b of nand_b at 10( 130) + 0 on 476;
+file . "NOR.vhd" "ce4e439077709bac047b7f729a1eeca3da55197a" "20250506155720.243":
+  entity nor_b at 1( 0) + 0 on 479;
+  architecture nor_b of nor_b at 10( 128) + 0 on 480;
+file . "NOT_A_8bits.vhd" "8594399d9191fe7ebe1c8e22c4ef70e6e97a864f" "20250506155720.741":
+  entity not_a_8bits at 1( 0) + 0 on 483;
+  architecture not_a_8bits of not_a_8bits at 10( 179) + 0 on 484;
+file . "NOT_B_8bits.vhd" "3c932f83d66884acbe2045bb7eee7e860a4d1094" "20250506155721.001":
+  entity not_b_8bits at 1( 0) + 0 on 487;
+  architecture not_b_8bits of not_b_8bits at 10( 179) + 0 on 488;
+file . "NXOR_8bits.vhd" "dc2539301eaa39a07dd75decfac9d25c15fd98ff" "20250506155721.281":
+  entity nxor_8bits at 1( 0) + 0 on 491;
+  architecture nxor_8bits of nxor_8bits at 10( 180) + 0 on 492;
+file . "OR_8bits.vhd" "56574b3facceecc0b136741315cda232bce04ac0" "20250506155721.540":
+  entity or_8bits at 1( 0) + 0 on 495;
+  architecture or_8bits of or_8bits at 10( 176) + 0 on 496;
+file . "XOR_8bits.vhd" "3a8118c067e15f444b0e6c4d1ca87686327fd52a" "20250506155721.821":
+  entity xor_8bits at 1( 0) + 0 on 499;
+  architecture xor_8bits of xor_8bits at 10( 178) + 0 on 500;
+file . "Registro_Contador_PC.vhd" "2bad6313021d582792aa4f86bd88e4d02b50a0a1" "20250506155717.713":
+  entity pc at 6( 485) + 0 on 447;
+  architecture pc of pc at 16( 685) + 0 on 448;
