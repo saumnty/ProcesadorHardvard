@@ -29,7 +29,7 @@ The processor components are built **from basic logic gates**, following a modul
 This project is **academic in nature** and focuses on understanding low-level processor construction rather than implementing a commercial CPU architecture.
 
 ## How to Simulate
-1. Open the project in a VHDL-compatible simulator (ModelSim, Vivado, etc.).
+1. Open the project in a VHDL-compatible simulator (GTKWave, ModelSim, Vivado, etc.).
 2. Compile all modules.
 3. Run test benches (if available) or simulate the ALU top module.
 
